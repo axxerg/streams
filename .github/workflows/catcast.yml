@@ -5,9 +5,6 @@ on:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
-  permissions:
-  contents: write
-
 concurrency:
   group: catcast-update
   cancel-in-progress: false  # Wait for previous run to complete
