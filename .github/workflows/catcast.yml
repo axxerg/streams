@@ -2,7 +2,7 @@ name: Update Catcast Streams
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Run every 6 hours
+    - cron: '0 */3 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
 concurrency:
