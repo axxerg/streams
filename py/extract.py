@@ -3,7 +3,7 @@ import shutil
 import requests
 import re
 
-from playwright_fallback import sniff_m3u8, choose_best
+from streams.py.playwright_fallback import sniff_m3u8, choose_best
 
 
 # Original Stream Pages
