@@ -23,16 +23,14 @@ def sniff_m3u8(page_url: str, timeout_ms: int = 90000) -> List[str]:
 
         page.on("request", on_request)
 
-        # WICHTIG: nicht networkidle (hängt oft bei Player/Ads)
         page.goto(page_url, wait_until="domcontentloaded", timeout=timeout_ms)
 
-        # etwas Zeit geben, damit Player/XHR die m3u8 anfragt
-        page.wait_for_timeout(8000)
+        # robust: gib dem Player etwas mehr Zeit (CI langsamer)
+        page.wait_for_timeout(12000)
 
         context.close()
         browser.close()
 
-    # unique, order preserved
     uniq = []
     seen = set()
     for u in found:
