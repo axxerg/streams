@@ -33,4 +33,4 @@ def choose_best(candidates: List[str]) -> str | None:
     if not candidates:
         return None
     preferred = [c for c in candidates if "master" in c.lower() or "playlist" in c.lower()]
-    return preferred[0] if preferred else candidates[0]playwright_fallback.py
+    return preferred[0] if preferred else candidates[0]
