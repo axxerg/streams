@@ -12,9 +12,6 @@ source_urls = {
     "nowtv": "https://www.nowtv.com.tr/canli-yayin",
     "tv4": "https://www.tv4.com.tr/canli-yayin",
     "kanal7": "https://www.kanal7.com/canli-izle",
-    "showturk": "https://www.showturk.com.tr/canli-yayin/showturk",
-    "marneulitv": "http://158.101.222.193:88/georgia_play.php?id=marneulitv",
-    "vostoktv": "https://limehd.tv/channel/tmb",
     "atvavrupa": "https://www.atvavrupa.tv/canli-yayin",
     "beyaztv": "https://beyaztv.com.tr/canli-yayin",
 }
@@ -48,7 +45,12 @@ def extract_m3u8(url):
     Versucht per requests eine m3u8 direkt aus dem HTML zu extrahieren.
     """
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=15,
+            allow_redirects=True,
+        )
         response.raise_for_status()
         text = response.text
 
@@ -83,16 +85,28 @@ if __name__ == "__main__":
     for name, page_url in source_urls.items():
         print(f"\n=== {name} ===")
 
-        # 1️⃣ Normaler Versuch (requests)
+        # 1) Normaler Versuch (requests)
         m3u8_link = extract_m3u8(page_url)
 
-        # 2️⃣ Playwright-Fallback
+        # 2) Playwright-Fallback (NIE den ganzen Run crashen lassen)
         if not m3u8_link and name in PLAYWRIGHT_FALLBACK:
             print("[INFO] requests erfolglos → Playwright wird verwendet")
-            candidates = sniff_m3u8(page_url)
-            m3u8_link = choose_best(candidates)
+            try:
+                # Wenn deine sniff_m3u8() ein timeout_ms Argument unterstützt, nutzt das:
+                # candidates = sniff_m3u8(page_url, timeout_ms=90000)
+                candidates = sniff_m3u8(page_url)
 
-        # 3️⃣ Ergebnis
+                print(f"[DEBUG] {name} m3u8 candidates: {candidates}")
+                m3u8_link = choose_best(candidates)
+
+                if not m3u8_link:
+                    print(f"[MISS] Playwright fand keine m3u8 für {name}")
+
+            except Exception as e:
+                print(f"[ERROR] Playwright failed for {name}: {e}")
+                m3u8_link = None
+
+        # 3) Ergebnis
         if m3u8_link:
             file_path = os.path.join(stream_folder, f"{name}.m3u8")
             write_multi_variant_m3u8(file_path, m3u8_link)
