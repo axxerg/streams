@@ -24,7 +24,7 @@ jobs:
           pip install requests yt-dlp
 
       - name: Run extract script
-        run: python extract_m3u8.py
+        run: python extract_final.py
 
       - name: Commit updated files
         uses: stefanzweifel/git-auto-commit-action@v5
