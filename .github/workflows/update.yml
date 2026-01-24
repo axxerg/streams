@@ -1,0 +1,33 @@
+name: Update m3u8 Links
+
+on:
+  schedule:
+    - cron: "*/90 * * * *"  # hər 90 dəqiqədə bir işə düşəcək
+  workflow_dispatch:        # İstəyə bağlı əl ilə də işə salmaq olur
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests yt-dlp
+
+      - name: Run extract script
+        run: python extract_m3u8.py
+
+      - name: Commit updated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔁 m3u8 linklər yeniləndi"
+          branch: main   # lazım olsa branch adını dəyiş
