@@ -1,114 +1,26 @@
 [
-    {
-        "id": "49905",
-        "slug": "abantv"
-    },
-    {
-        "id": "50823",
-        "slug": "Yesilcam"
-    },
-    {
-        "id": "50498",
-        "slug": "Yansima"
-    },
-    {
-        "id": "50938",
-        "slug": "Kanal-F"
-    },
-    {
-        "id": "39199",
-        "slug": "alvin-music"
-    },
-    {
-        "id": "39200",
-        "slug": "alvin-ovcu"
-    },
-    {
-        "id": "49914",
-        "slug": "azerimuzik"
-    },
-    {
-        "id": "39388",
-        "slug": "biztv"
-    },
-    {
-        "id": "47437",
-        "slug": "kanal-65"
-    },
-    {
-        "id": "38685",
-        "slug": "faruhli5"
-    },
-    {
-        "id": "49903",
-        "slug": "korkutv"
-    },
-    {
-        "id": "49906",
-        "slug": "masailekocaayi"
-    },
-    {
-        "id": "48110",
-        "slug": "megatvaz"
-    },
-    {
-        "id": "48694",
-        "slug": "now-music"
-    },
-    {
-        "id": "48076",
-        "slug": "rihatmusic"
-    },
-    {
-        "id": "48591",
-        "slug": "turkuzplay1"
-    },
-    {
-        "id": "48076",
-        "slug": "rihatmuzik"
-    },
-    {
-        "id": "48302",
-        "slug": "rhattv"
-    },
-    {
-        "id": "48695",
-        "slug": "sabantv"
-    },
-      {
-        "id": "40761",
-        "slug": "relaxtv"
-    },
-    {
-        "id": "42764",
-        "slug": "yeraztv"
-    },
-    {
-        "id": "50078",
-        "slug": "iplay"
-    },
-        {
-        "id": "41741",
-        "slug": "konusulanlar"
-    },
-        {
-        "id": "48695",
-        "slug": "kemalsunal"
-    }, 
-            {
-        "id": "50296",
-        "slug": "kyayin"
-    }, 
-                {
-        "id": "50168",
-        "slug": "yesilcam"
-    }, 
-                   {
-        "id": "50271",
-        "slug": "hababam"
-    }, 
-    {
-        "id": "50079",
-        "slug": "iplaymuzik"
-    }
+    { "id": "49905", "slug": "abantv" },
+    { "id": "50823", "slug": "yesilcam" },
+    { "id": "50498", "slug": "yansima" },
+    { "id": "50938", "slug": "kanal-f" },
+    { "id": "39199", "slug": "alvin-music" },
+    { "id": "39200", "slug": "alvin-ovcu" },
+    { "id": "49914", "slug": "azerimuzik" },
+    { "id": "39388", "slug": "biztv" },
+    { "id": "47437", "slug": "kanal-65" },
+    { "id": "38685", "slug": "faruhli5" },
+    { "id": "49903", "slug": "korkutv" },
+    { "id": "49906", "slug": "masailekocaayi" },
+    { "id": "48110", "slug": "megatvaz" },
+    { "id": "48694", "slug": "now-music" },
+    { "id": "48076", "slug": "rihatmusic" },
+    { "id": "48302", "slug": "rhattv" },
+    { "id": "48695", "slug": "sabantv" },
+    { "id": "40761", "slug": "relaxtv" },
+    { "id": "42764", "slug": "yeraztv" },
+    { "id": "50078", "slug": "iplay" },
+    { "id": "41741", "slug": "konusulanlar" },
+    { "id": "50296", "slug": "kyayin" },
+    { "id": "50271", "slug": "hababam" },
+    { "id": "50079", "slug": "iplaymuzik" }
 ]
