@@ -2,7 +2,7 @@ name: Update Catcast Streams
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # alle 4 Stunden
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -16,14 +16,18 @@ jobs:
   update-streams:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -32,15 +36,6 @@ jobs:
 
       - name: Run update script
         run: python catcast.py
-
-      - name: Show git status
-        run: |
-          echo "=== catcast directory ==="
-          ls -la catcast || true
-          echo "=== git status ==="
-          git status
-          echo "=== git diff ==="
-          git diff -- catcast || true
 
       - name: Commit and push changes
         run: |
