@@ -1,16 +1,19 @@
-name: Update m3u8 Links
+name: Update Catcast Streams
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # hər 3 saatdan bir
-    - cron: "30 1,4,7,10,13,16,19,22 * * *"  # alternativ olaraq ~90 dəqiqəlik ritm
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: catcast-update
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-streams:
     runs-on: ubuntu-latest
 
     env:
@@ -19,30 +22,34 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          ref: main
 
-      - name: Setup Python 3.10
+      - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.10"
-          cache: "pip"
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests
 
-      - name: Install Playwright browsers (Chromium)
+      - name: Run update script
+        run: python catcast.py
+
+      - name: Show git status
         run: |
-          python -m playwright install --with-deps chromium
+          git status
+          git diff -- catcast || true
 
-      - name: Run extract script
+      - name: Commit and push changes
         run: |
-          python extract_final.py
-
-      - name: Commit updated files
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "🔁 m3u8 linklər yeniləndi"
-          branch: main
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add catcast/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Catcast streams [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
+            git push
+          fi
