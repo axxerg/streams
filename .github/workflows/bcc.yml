@@ -3,7 +3,7 @@ name: Build Catcast Config
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # alle 12 Stunden
+    - cron: '0 */12 * * *'
 
 permissions:
   contents: write
@@ -31,24 +31,25 @@ jobs:
           pip install requests
 
       - name: Run build script
-        run: |
-          python build_catcast_config.py
+        run: python build_catcast_config.py
 
-      - name: Debug output (optional but recommended)
+      - name: Show output
+        if: always()
         run: |
           echo "=== catcast-config.json ==="
-          cat catcast-config.json || echo "No file generated"
-          echo "=== debug-api.json (if exists) ==="
-          cat debug-api.json || echo "No debug file"
+          cat catcast-config.json || echo "No catcast-config.json generated"
+          echo "=== debug-api.json ==="
+          cat debug-api.json || echo "No debug-api.json generated"
 
       - name: Commit and push changes
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add catcast-config.json debug-api.json || true
+          git add catcast-config.json debug-api.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update catcast-config.json"
+            git commit -m "Update catcast config"
             git push
           fi
