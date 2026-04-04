@@ -7,6 +7,7 @@ import requests
 
 API_URL = "https://api.catcast.tv/api/channels"
 OUTPUT_FILE = "catcast-config.json"
+DEBUG_FILE = "debug-api.json"
 
 
 def slugify(text: str) -> str:
@@ -18,35 +19,52 @@ def slugify(text: str) -> str:
     return text
 
 
+def find_channel_list(obj):
+    """
+    Sucht rekursiv nach einer Liste von Channel-Objekten
+    mit Feldern wie 'id' und 'name'.
+    """
+    if isinstance(obj, list):
+        if obj and all(isinstance(x, dict) for x in obj):
+            sample = obj[0]
+            if "id" in sample and "name" in sample:
+                return obj
+
+        for item in obj:
+            result = find_channel_list(item)
+            if result is not None:
+                return result
+
+    elif isinstance(obj, dict):
+        for value in obj.values():
+            result = find_channel_list(value)
+            if result is not None:
+                return result
+
+    return None
+
+
 def fetch_channels():
     print("📡 Lade Channels von API...")
     res = requests.get(API_URL, timeout=60)
     res.raise_for_status()
 
-    data = res.json()
+    payload = res.json()
 
-    # 🔥 FIX: verschiedene API-Formate abfangen
-    if isinstance(data, list):
-        channels = data
-    elif isinstance(data, dict):
-        channels = (
-            data.get("data")
-            or data.get("channels")
-            or data.get("result")
-            or data.get("items")
-        )
-    else:
-        channels = None
+    # Debug immer speichern, damit man die echte Struktur sieht
+    Path(DEBUG_FILE).write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
 
-    if not isinstance(channels, list):
+    channels = find_channel_list(payload)
+
+    if channels is None:
         print("❌ Unbekanntes API-Format")
-        print("Response keys:", list(data.keys()) if isinstance(data, dict) else type(data))
-
-        # Debug speichern
-        Path("debug-api.json").write_text(
-            json.dumps(data, indent=2, ensure_ascii=False),
-            encoding="utf-8"
-        )
+        if isinstance(payload, dict):
+            print("Response keys:", list(payload.keys()))
+        else:
+            print("Response type:", type(payload).__name__)
         raise ValueError("API liefert keine Channel-Liste")
 
     print(f"✅ {len(channels)} Channels gefunden")
@@ -55,24 +73,22 @@ def fetch_channels():
 
 def build_config(channels):
     result = []
-    seen = set()
+    seen_ids = set()
 
     for ch in channels:
         cid = ch.get("id")
         name = ch.get("name")
 
-        if not cid or not name:
+        if cid is None or not name:
             continue
 
-        if cid in seen:
+        if cid in seen_ids:
             continue
-        seen.add(cid)
-
-        slug = slugify(name)
+        seen_ids.add(cid)
 
         result.append({
             "id": str(cid),
-            "slug": slug
+            "slug": slugify(name)
         })
 
     result.sort(key=lambda x: x["slug"])
@@ -88,7 +104,7 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"\n💾 Gespeichert: {OUTPUT_FILE}")
+    print(f"💾 Gespeichert: {OUTPUT_FILE}")
     print(f"📺 Channels: {len(config)}")
 
 
