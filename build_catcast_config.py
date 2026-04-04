@@ -5,97 +5,91 @@ from pathlib import Path
 
 import requests
 
-
 API_URL = "https://api.catcast.tv/api/channels"
 OUTPUT_FILE = "catcast-config.json"
 
 
-# Optional: schöne Namen manuell korrigieren
-SLUG_OVERRIDES = {
-    "KANAL65-HMUSIQI": "kanal-65-hmusiqi",
-    "KANAL F": "kanal-f",
-    "NOW MUSIC": "now-music",
-}
-
-
 def slugify(text: str) -> str:
     text = text.strip().lower()
-
-    # Sonderzeichen normalisieren (ä → a, etc.)
     text = unicodedata.normalize("NFKD", text)
     text = text.encode("ascii", "ignore").decode("ascii")
-
-    # alles außer a-z, 0-9 → "-"
     text = re.sub(r"[^a-z0-9]+", "-", text)
-
-    # doppelte "-" entfernen
     text = re.sub(r"-{2,}", "-", text).strip("-")
-
     return text
 
 
 def fetch_channels():
     print("📡 Lade Channels von API...")
-    response = requests.get(API_URL, timeout=60)
-    response.raise_for_status()
+    res = requests.get(API_URL, timeout=60)
+    res.raise_for_status()
 
-    data = response.json()
+    data = res.json()
 
-    if not isinstance(data, list):
-        raise ValueError("API response ist kein Array")
+    # 🔥 FIX: verschiedene API-Formate abfangen
+    if isinstance(data, list):
+        channels = data
+    elif isinstance(data, dict):
+        channels = (
+            data.get("data")
+            or data.get("channels")
+            or data.get("result")
+            or data.get("items")
+        )
+    else:
+        channels = None
 
-    print(f"Gefunden: {len(data)} Channels")
-    return data
+    if not isinstance(channels, list):
+        print("❌ Unbekanntes API-Format")
+        print("Response keys:", list(data.keys()) if isinstance(data, dict) else type(data))
+
+        # Debug speichern
+        Path("debug-api.json").write_text(
+            json.dumps(data, indent=2, ensure_ascii=False),
+            encoding="utf-8"
+        )
+        raise ValueError("API liefert keine Channel-Liste")
+
+    print(f"✅ {len(channels)} Channels gefunden")
+    return channels
 
 
 def build_config(channels):
     result = []
-    seen_ids = set()
+    seen = set()
 
-    for channel in channels:
-        channel_id = channel.get("id")
-        name = channel.get("name")
+    for ch in channels:
+        cid = ch.get("id")
+        name = ch.get("name")
 
-        if not channel_id or not name:
+        if not cid or not name:
             continue
 
-        if channel_id in seen_ids:
+        if cid in seen:
             continue
-        seen_ids.add(channel_id)
+        seen.add(cid)
 
-        slug = SLUG_OVERRIDES.get(name, slugify(name))
+        slug = slugify(name)
 
         result.append({
-            "id": str(channel_id),
+            "id": str(cid),
             "slug": slug
         })
 
-    # alphabetisch sortieren
     result.sort(key=lambda x: x["slug"])
-
     return result
 
 
-def save_json(data):
+def main():
+    channels = fetch_channels()
+    config = build_config(channels)
+
     Path(OUTPUT_FILE).write_text(
-        json.dumps(data, ensure_ascii=False, indent=4),
+        json.dumps(config, indent=4, ensure_ascii=False) + "\n",
         encoding="utf-8"
     )
 
-
-def main():
-    try:
-        channels = fetch_channels()
-        config = build_config(channels)
-
-        save_json(config)
-
-        print("\n✅ Fertig!")
-        print(f"Datei: {OUTPUT_FILE}")
-        print(f"Channels: {len(config)}")
-
-    except Exception as e:
-        print(f"❌ Fehler: {e}")
+    print(f"\n💾 Gespeichert: {OUTPUT_FILE}")
+    print(f"📺 Channels: {len(config)}")
 
 
 if __name__ == "__main__":
