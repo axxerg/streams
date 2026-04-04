@@ -2,8 +2,6 @@ name: Build Catcast Config
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */12 * * *'
 
 permissions:
   contents: write
@@ -11,6 +9,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -34,7 +33,7 @@ jobs:
       - name: Run scraper
         run: python catcast_scraper.py
 
-      - name: Show result
+      - name: Show output
         if: always()
         run: |
           echo "=== catcast-config.json ==="
@@ -43,6 +42,7 @@ jobs:
           cat catcast-debug.json || true
 
       - name: Commit and push changes
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
