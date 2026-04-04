@@ -32,16 +32,62 @@ def load_existing():
     return []
 
 
-def extract_channels(payload):
-    if not isinstance(payload, dict):
-        raise ValueError("API root is not an object")
+def is_channel_list(value):
+    if not isinstance(value, list) or not value:
+        return False
 
-    data = payload.get("data")
-    if not isinstance(data, list):
-        raise ValueError("payload['data'] is not a list")
+    dict_items = [x for x in value if isinstance(x, dict)]
+    if not dict_items:
+        return False
+
+    score = 0
+    sample = dict_items[:10]
+    for item in sample:
+        if "id" in item:
+            score += 1
+        if "name" in item:
+            score += 1
+        if "shortname" in item:
+            score += 1
+
+    return score >= len(sample) * 2
+
+
+def find_best_channel_list(obj, path="root", candidates=None):
+    if candidates is None:
+        candidates = []
+
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            new_path = f"{path}.{key}"
+            if is_channel_list(value):
+                candidates.append((new_path, value))
+            find_best_channel_list(value, new_path, candidates)
+
+    elif isinstance(obj, list):
+        for i, value in enumerate(obj):
+            find_best_channel_list(value, f"{path}[{i}]", candidates)
+
+    return candidates
+
+
+def extract_channels(payload):
+    candidates = find_best_channel_list(payload)
+
+    if not candidates:
+        raise ValueError("No channel list candidate found in payload")
+
+    # größte passende Liste nehmen
+    candidates.sort(key=lambda x: len(x[1]), reverse=True)
+    best_path, best_list = candidates[0]
+
+    print(f"Using channel list at: {best_path}", flush=True)
+    print(f"Candidate count: {len(best_list)}", flush=True)
 
     channels = []
-    for item in data:
+    seen_ids = set()
+
+    for item in best_list:
         if not isinstance(item, dict):
             continue
 
@@ -62,6 +108,10 @@ def extract_channels(payload):
         slug = slugify(name)
         if not slug:
             continue
+
+        if cid in seen_ids:
+            continue
+        seen_ids.add(cid)
 
         channels.append({
             "id": cid,
@@ -88,7 +138,6 @@ def merge_existing(existing, fresh):
         cid = item["id"]
         slug = item["slug"]
 
-        # vorhandenen slug behalten, falls schon gesetzt
         if cid in existing_map and existing_map[cid]:
             slug = existing_map[cid]
 
@@ -101,7 +150,6 @@ def merge_existing(existing, fresh):
             "slug": slug
         })
 
-    # alte Einträge behalten, die nicht mehr in fresh sind
     for cid, slug in existing_map.items():
         if cid not in seen:
             merged.append({
