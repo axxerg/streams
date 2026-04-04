@@ -1,26 +1,98 @@
 [
-    { "id": "49905", "slug": "abantv" },
-    { "id": "50823", "slug": "yesilcam" },
-    { "id": "50498", "slug": "yansima" },
-    { "id": "50938", "slug": "kanal-f" },
-    { "id": "39199", "slug": "alvin-music" },
-    { "id": "39200", "slug": "alvin-ovcu" },
-    { "id": "49914", "slug": "azerimuzik" },
-    { "id": "39388", "slug": "biztv" },
-    { "id": "47437", "slug": "kanal-65" },
-    { "id": "38685", "slug": "faruhli5" },
-    { "id": "49903", "slug": "korkutv" },
-    { "id": "49906", "slug": "masailekocaayi" },
-    { "id": "48110", "slug": "megatvaz" },
-    { "id": "48694", "slug": "now-music" },
-    { "id": "48076", "slug": "rihatmusic" },
-    { "id": "48302", "slug": "rhattv" },
-    { "id": "48695", "slug": "sabantv" },
-    { "id": "40761", "slug": "relaxtv" },
-    { "id": "42764", "slug": "yeraztv" },
-    { "id": "50078", "slug": "iplay" },
-    { "id": "41741", "slug": "konusulanlar" },
-    { "id": "50296", "slug": "kyayin" },
-    { "id": "50271", "slug": "hababam" },
-    { "id": "50079", "slug": "iplaymuzik" }
+    {
+        "id": "50968",
+        "slug": ""
+    },
+    {
+        "id": "50964",
+        "slug": ""
+    },
+    {
+        "id": "50950",
+        "slug": "by-kerimoff-gaydasiz-doyusler"
+    },
+    {
+        "id": "50966",
+        "slug": "by-kerimoff-hind-klipleri"
+    },
+    {
+        "id": "50962",
+        "slug": "by-kerimoff-hind-klipleri"
+    },
+    {
+        "id": "50949",
+        "slug": "f-sinema"
+    },
+    {
+        "id": "50967",
+        "slug": "hind-klipler"
+    },
+    {
+        "id": "50963",
+        "slug": "hma-media-tv"
+    },
+    {
+        "id": "50969",
+        "slug": "kanal65-hmusiqi"
+    },
+    {
+        "id": "50965",
+        "slug": "next-channel"
+    },
+    {
+        "id": "50955",
+        "slug": "playercinema-premium-3"
+    },
+    {
+        "id": "50960",
+        "slug": "playercinema-premium-4"
+    },
+    {
+        "id": "50961",
+        "slug": "playercinema-premium-5"
+    },
+    {
+        "id": "50953",
+        "slug": "playercinema-universal-esger"
+    },
+    {
+        "id": "50954",
+        "slug": "playercizgifilm-madagascar"
+    },
+    {
+        "id": "50958",
+        "slug": "playercizgifilm-panda-1"
+    },
+    {
+        "id": "50959",
+        "slug": "playercizgifilm-panda-2"
+    },
+    {
+        "id": "50957",
+        "slug": "playercizgifilm-srek-ejdaha"
+    },
+    {
+        "id": "50946",
+        "slug": "playercnema-action-6"
+    },
+    {
+        "id": "50945",
+        "slug": "playercnema-marvel-6"
+    },
+    {
+        "id": "50947",
+        "slug": "playercnema-yirtici"
+    },
+    {
+        "id": "50948",
+        "slug": "playercnema-yirtici-2"
+    },
+    {
+        "id": "50956",
+        "slug": "ttv"
+    },
+    {
+        "id": "50951",
+        "slug": "ztutotv"
+    }
 ]

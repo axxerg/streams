@@ -1,0 +1,5308 @@
+{
+  "status": 1,
+  "data": {
+    "list": {
+      "current_page": 1,
+      "data": [
+        {
+          "id": 50969,
+          "name": "KANAL65-HMUSIQI",
+          "time": "2026-04-03T22:32:38.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "kanal65-hmusiqi",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27584,
+            "username": "KANAL65",
+            "ava": ""
+          },
+          "stream_name": "kanal65-hmusiqi",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27584",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50968,
+          "name": "ПраймТВ",
+          "time": "2026-04-03T21:08:03.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "primetvru",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [
+            "разное",
+            "познавательное",
+            "мультипликационое"
+          ],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27583,
+            "username": "PrimeTV_RU",
+            "ava": ""
+          },
+          "stream_name": "primetvru",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27583",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50967,
+          "name": "hind-klipler",
+          "time": "2026-04-03T10:47:09.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "hind-klipler",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 3,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27581,
+            "username": "tv56",
+            "ava": ""
+          },
+          "stream_name": "hind-klipler",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27581",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50966,
+          "name": "by-kerimoff-hind-klipleri",
+          "time": "2026-04-02T19:46:47.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-hind-musiqisi",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27580,
+            "username": "bykerimoff56",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-hind-musiqisi",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27580",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50965,
+          "name": "Next Channel",
+          "time": "2026-04-02T12:28:35.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "next-channeltv",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 6,
+          "tags": [],
+          "wasonline": 1775252652,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_live": true,
+          "current_live_server": "https://s.catcast.tv/",
+          "current_live_server_data": {
+            "name": "s.catcast.tv",
+            "domain": "https://s.catcast.tv/",
+            "rtmp_domain": "rtmp://s.catcast.tv/",
+            "hls_url": "hls/",
+            "live_url": "live",
+            "stat_url": "streams.php",
+            "supports_new_statistics": true,
+            "supports_json_streams_list": true,
+            "is_nms": false,
+            "ip": "45.139.185.35"
+          },
+          "online_screenshot": "https://s.catcast.tv/scrnext-channeltv.png",
+          "viewers": 1,
+          "is_nms": false,
+          "owner": {
+            "id": 27578,
+            "username": "nextchannel",
+            "ava": ""
+          },
+          "stream_name": "next-channeltv",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27578",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50964,
+          "name": "Мульт саша",
+          "time": "2026-04-02T01:44:43.000000Z",
+          "background": null,
+          "logo": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+          "banner": null,
+          "shortname": "мульт-саша",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27563,
+            "username": "Карусель Саша",
+            "ava": ""
+          },
+          "stream_name": "мульт-саша",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27563",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50963,
+          "name": "HMA MEDIA TV",
+          "time": "2026-04-01T19:34:22.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+          "banner": null,
+          "shortname": "hma-mediatv",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [
+            "DİZİ",
+            "YAPAYZEKA",
+            "GELECEK"
+          ],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#0D99FF",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775213780,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27577,
+            "username": "hmamedıatv",
+            "ava": ""
+          },
+          "stream_name": "hma-mediatv",
+          "player_background": null,
+          "background_size": null,
+          "links": [
+            {
+              "group": "BEREKET HANESİ 1",
+              "link": "https://www.instagram.com/reel/DU_Uh8sDPNy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            },
+            {
+              "group": "BEREKET HANESİ 2",
+              "link": "https://www.instagram.com/reel/DVRPWK8jEjX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            }
+          ],
+          "description": "",
+          "description_text": "",
+          "author_id": "27577",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": true
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50962,
+          "name": "by-kerimoff-hind-klipleri",
+          "time": "2026-04-01T19:16:03.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-hind-klipleri",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 30,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775280076,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50962/010420262222_353638/preview.jpg",
+          "owner": {
+            "id": 27576,
+            "username": "bykerimoff55",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-hind-klipleri",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27576",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "Sharara Full Song - Mere Yaar Ki Shaadi Hai - Shamita Shetty, Asha Bhosle, Jeet-Pritam, Javed Akhtar",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50961,
+          "name": "PlayerCinema PREMIUM 5",
+          "time": "2026-04-01T17:59:46.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+          "shortname": "playercinema-premium5",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercinema-premium5",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81195,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50961-69cd5d57c0f9e.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:55.000000Z",
+              "updated_at": "2026-04-01T22:00:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81195,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81195,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50961-69cd5d57c0f9e.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:55.000000Z",
+              "updated_at": "2026-04-01T22:00:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81195,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50960,
+          "name": "PlayerCinema PREMIUM 4",
+          "time": "2026-04-01T17:58:06.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50960-69cd5cce5ccd9.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50960-69cd5cc6cecc9.png",
+          "shortname": "playercinema-premium4",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercinema-premium4",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50960-69cd5cd71b22b.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81187,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50960-69cd5cc5dd132.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:30.000000Z",
+              "updated_at": "2026-04-01T21:58:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81187,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81188,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50960-69cd5cc6cecc9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:31.000000Z",
+              "updated_at": "2026-04-01T21:58:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50960-69cd5cc6cecc9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81188,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81189,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50960-69cd5cce5ccd9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:38.000000Z",
+              "updated_at": "2026-04-01T21:58:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50960-69cd5cce5ccd9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81189,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81190,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50960-69cd5cd71b22b.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:47.000000Z",
+              "updated_at": "2026-04-01T21:58:47.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50960-69cd5cd71b22b.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81190,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81187,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50960-69cd5cc5dd132.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:30.000000Z",
+              "updated_at": "2026-04-01T21:58:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81187,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81188,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50960-69cd5cc6cecc9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:31.000000Z",
+              "updated_at": "2026-04-01T21:58:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50960-69cd5cc6cecc9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81188,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81189,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50960-69cd5cce5ccd9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:38.000000Z",
+              "updated_at": "2026-04-01T21:58:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50960-69cd5cce5ccd9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81189,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81187,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50960-69cd5cc5dd132.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:30.000000Z",
+              "updated_at": "2026-04-01T21:58:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81187,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81188,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50960-69cd5cc6cecc9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:31.000000Z",
+              "updated_at": "2026-04-01T21:58:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50960-69cd5cc6cecc9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81188,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81189,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50960-69cd5cce5ccd9.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:38.000000Z",
+              "updated_at": "2026-04-01T21:58:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50960-69cd5cce5ccd9.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81189,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81190,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50960-69cd5cd71b22b.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:58:47.000000Z",
+              "updated_at": "2026-04-01T21:58:47.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50960-69cd5cd71b22b.png",
+              "pivot": {
+                "entity_id": 50960,
+                "picture_id": 81190,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50959,
+          "name": "PlayerCizgiFilm PANDA 2",
+          "time": "2026-04-01T17:52:30.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50959-69cfdb7db91ee.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50959-69cfdb783b658.png",
+          "shortname": "playercizgifilm-panda2",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercizgifilm-panda2",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50959-69cfdb8563c52.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81237,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50959-69cfdb72e3a1c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:31.000000Z",
+              "updated_at": "2026-04-03T19:23:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81237,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81238,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50959-69cfdb783b658.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:36.000000Z",
+              "updated_at": "2026-04-03T19:23:36.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50959-69cfdb783b658.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81238,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81239,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50959-69cfdb7db91ee.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:41.000000Z",
+              "updated_at": "2026-04-03T19:23:41.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50959-69cfdb7db91ee.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81239,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81240,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50959-69cfdb8563c52.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:49.000000Z",
+              "updated_at": "2026-04-03T19:23:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50959-69cfdb8563c52.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81240,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81237,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50959-69cfdb72e3a1c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:31.000000Z",
+              "updated_at": "2026-04-03T19:23:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81237,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81238,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50959-69cfdb783b658.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:36.000000Z",
+              "updated_at": "2026-04-03T19:23:36.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50959-69cfdb783b658.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81238,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81239,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50959-69cfdb7db91ee.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:41.000000Z",
+              "updated_at": "2026-04-03T19:23:41.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50959-69cfdb7db91ee.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81239,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81237,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50959-69cfdb72e3a1c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:31.000000Z",
+              "updated_at": "2026-04-03T19:23:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81237,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81238,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50959-69cfdb783b658.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:36.000000Z",
+              "updated_at": "2026-04-03T19:23:36.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50959-69cfdb783b658.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81238,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81239,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50959-69cfdb7db91ee.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:41.000000Z",
+              "updated_at": "2026-04-03T19:23:41.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50959-69cfdb7db91ee.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81239,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81240,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50959-69cfdb8563c52.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:23:49.000000Z",
+              "updated_at": "2026-04-03T19:23:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50959-69cfdb8563c52.png",
+              "pivot": {
+                "entity_id": 50959,
+                "picture_id": 81240,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50958,
+          "name": "PlayerCizgiFilm PANDA 1",
+          "time": "2026-04-01T17:42:50.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50958-69cfdb2762258.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50958-69cfdb21d7f9b.png",
+          "shortname": "playercizgifilm-panda1",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercizgifilm-panda1",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50958-69cfdb300fde9.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81232,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50958-69cfdb19cb169.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:02.000000Z",
+              "updated_at": "2026-04-03T19:22:02.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81232,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81233,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50958-69cfdb21d7f9b.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:10.000000Z",
+              "updated_at": "2026-04-03T19:22:10.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50958-69cfdb21d7f9b.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81233,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81234,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50958-69cfdb2762258.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:15.000000Z",
+              "updated_at": "2026-04-03T19:22:15.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50958-69cfdb2762258.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81234,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81235,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50958-69cfdb300fde9.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:24.000000Z",
+              "updated_at": "2026-04-03T19:22:24.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50958-69cfdb300fde9.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81235,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81232,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50958-69cfdb19cb169.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:02.000000Z",
+              "updated_at": "2026-04-03T19:22:02.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81232,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81233,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50958-69cfdb21d7f9b.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:10.000000Z",
+              "updated_at": "2026-04-03T19:22:10.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50958-69cfdb21d7f9b.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81233,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81234,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50958-69cfdb2762258.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:15.000000Z",
+              "updated_at": "2026-04-03T19:22:15.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50958-69cfdb2762258.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81234,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81232,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50958-69cfdb19cb169.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:02.000000Z",
+              "updated_at": "2026-04-03T19:22:02.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81232,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81233,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50958-69cfdb21d7f9b.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:10.000000Z",
+              "updated_at": "2026-04-03T19:22:10.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50958-69cfdb21d7f9b.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81233,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81234,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50958-69cfdb2762258.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:15.000000Z",
+              "updated_at": "2026-04-03T19:22:15.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50958-69cfdb2762258.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81234,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81235,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50958-69cfdb300fde9.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:22:24.000000Z",
+              "updated_at": "2026-04-03T19:22:24.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50958-69cfdb300fde9.png",
+              "pivot": {
+                "entity_id": 50958,
+                "picture_id": 81235,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50957,
+          "name": "PlayerCizgiFilm Şrek&Ejdaha",
+          "time": "2026-04-01T17:31:49.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50957-69cff1705e7ff.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50957-69cff15acc82e.png",
+          "shortname": "playercizgifilm-rekejdaha",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 4,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775074184,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50957/010420262036_353610/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercizgifilm-rekejdaha",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50957-69cff19b95ebf.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81278,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50957-69cff1514aabb.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:49.000000Z",
+              "updated_at": "2026-04-03T20:56:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81278,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81279,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50957-69cff15acc82e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:58.000000Z",
+              "updated_at": "2026-04-03T20:56:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50957-69cff15acc82e.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81279,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81280,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50957-69cff1705e7ff.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:57:20.000000Z",
+              "updated_at": "2026-04-03T20:57:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50957-69cff1705e7ff.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81280,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81281,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50957-69cff19b95ebf.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:58:03.000000Z",
+              "updated_at": "2026-04-03T20:58:03.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50957-69cff19b95ebf.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81281,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Şrek 3(2007)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81278,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50957-69cff1514aabb.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:49.000000Z",
+              "updated_at": "2026-04-03T20:56:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81278,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81279,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50957-69cff15acc82e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:58.000000Z",
+              "updated_at": "2026-04-03T20:56:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50957-69cff15acc82e.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81279,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81280,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50957-69cff1705e7ff.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:57:20.000000Z",
+              "updated_at": "2026-04-03T20:57:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50957-69cff1705e7ff.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81280,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81278,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50957-69cff1514aabb.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:49.000000Z",
+              "updated_at": "2026-04-03T20:56:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81278,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81279,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50957-69cff15acc82e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:56:58.000000Z",
+              "updated_at": "2026-04-03T20:56:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50957-69cff15acc82e.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81279,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81280,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50957-69cff1705e7ff.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:57:20.000000Z",
+              "updated_at": "2026-04-03T20:57:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50957-69cff1705e7ff.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81280,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81281,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50957-69cff19b95ebf.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:58:03.000000Z",
+              "updated_at": "2026-04-03T20:58:03.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50957-69cff19b95ebf.png",
+              "pivot": {
+                "entity_id": 50957,
+                "picture_id": 81281,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50956,
+          "name": "Ttv",
+          "time": "2026-04-01T15:59:22.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50956-69cd49e22707c.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50956-69cd49c04d3e1.jpg",
+          "banner": null,
+          "shortname": "ttvturkiye",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 6,
+          "tags": [],
+          "wasonline": 1775279071,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775224738,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_live": true,
+          "current_live_server": "https://s.catcast.tv/",
+          "current_live_server_data": {
+            "name": "s.catcast.tv",
+            "domain": "https://s.catcast.tv/",
+            "rtmp_domain": "rtmp://s.catcast.tv/",
+            "hls_url": "hls/",
+            "live_url": "live",
+            "stat_url": "streams.php",
+            "supports_new_statistics": true,
+            "supports_json_streams_list": true,
+            "is_nms": false,
+            "ip": "45.139.185.35"
+          },
+          "online_screenshot": "https://s.catcast.tv/scrttvturkiye.png",
+          "viewers": 1,
+          "is_nms": false,
+          "owner": {
+            "id": 27574,
+            "username": "taskinortahisar@gmail.com",
+            "ava": ""
+          },
+          "stream_name": "ttvturkiye",
+          "player_background": null,
+          "background_size": null,
+          "links": [],
+          "description": "",
+          "description_text": "",
+          "author_id": "27574",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81177,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50956-69cd49c04d3e1.jpg",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:20.000000Z",
+              "updated_at": "2026-04-01T19:37:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50956-69cd49c04d3e1.jpg",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81177,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": 81178,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50956-69cd49e22707c.png",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:54.000000Z",
+              "updated_at": "2026-04-01T19:37:54.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50956-69cd49e22707c.png",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81178,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81177,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50956-69cd49c04d3e1.jpg",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:20.000000Z",
+              "updated_at": "2026-04-01T19:37:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50956-69cd49c04d3e1.jpg",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81177,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81178,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50956-69cd49e22707c.png",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:54.000000Z",
+              "updated_at": "2026-04-01T19:37:54.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50956-69cd49e22707c.png",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81178,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81177,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50956-69cd49c04d3e1.jpg",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:20.000000Z",
+              "updated_at": "2026-04-01T19:37:20.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50956-69cd49c04d3e1.jpg",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81177,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81178,
+              "user_id": 27574,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50956-69cd49e22707c.png",
+              "has_https": true,
+              "created_at": "2026-04-01T19:37:54.000000Z",
+              "updated_at": "2026-04-01T19:37:54.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50956-69cd49e22707c.png",
+              "pivot": {
+                "entity_id": 50956,
+                "picture_id": 81178,
+                "entity_picture_type": "background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50955,
+          "name": "PlayerCinema PREMIUM 3",
+          "time": "2026-04-01T15:25:36.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50955-69cd5c2da48e3.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50955-69cd5c25c0cba.png",
+          "shortname": "playercinema-premium3",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 2,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775106005,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50955/010420261829_353596/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercinema-premium3",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50955-69cd5c37c8da6.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81182,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50955-69cd5c1905c28.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:37.000000Z",
+              "updated_at": "2026-04-01T21:55:37.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81182,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81183,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50955-69cd5c25c0cba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:49.000000Z",
+              "updated_at": "2026-04-01T21:55:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50955-69cd5c25c0cba.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81183,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81184,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50955-69cd5c2da48e3.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:57.000000Z",
+              "updated_at": "2026-04-01T21:55:57.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50955-69cd5c2da48e3.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81184,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81185,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50955-69cd5c37c8da6.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:56:07.000000Z",
+              "updated_at": "2026-04-01T21:56:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50955-69cd5c37c8da6.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81185,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Black Panther-Wakanda Forever(2022)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81182,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50955-69cd5c1905c28.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:37.000000Z",
+              "updated_at": "2026-04-01T21:55:37.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81182,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81183,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50955-69cd5c25c0cba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:49.000000Z",
+              "updated_at": "2026-04-01T21:55:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50955-69cd5c25c0cba.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81183,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81184,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50955-69cd5c2da48e3.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:57.000000Z",
+              "updated_at": "2026-04-01T21:55:57.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50955-69cd5c2da48e3.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81184,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81182,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50955-69cd5c1905c28.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:37.000000Z",
+              "updated_at": "2026-04-01T21:55:37.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81182,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81183,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50955-69cd5c25c0cba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:49.000000Z",
+              "updated_at": "2026-04-01T21:55:49.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50955-69cd5c25c0cba.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81183,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81184,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50955-69cd5c2da48e3.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:55:57.000000Z",
+              "updated_at": "2026-04-01T21:55:57.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50955-69cd5c2da48e3.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81184,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81185,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50955-69cd5c37c8da6.png",
+              "has_https": true,
+              "created_at": "2026-04-01T21:56:07.000000Z",
+              "updated_at": "2026-04-01T21:56:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50955-69cd5c37c8da6.png",
+              "pivot": {
+                "entity_id": 50955,
+                "picture_id": 81185,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50954,
+          "name": "PlayerCizgiFilm MADAGASCAR",
+          "time": "2026-04-01T15:16:59.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50954-69cfec3be062c.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50954-69cfec328c520.png",
+          "shortname": "playercizgifilm-madagascar",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 1,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775073114,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50954/010420261820_353591/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercizgifilm-madagascar",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50954-69cfec44e1cbe.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81273,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50954-69cfec2b5b09e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:51.000000Z",
+              "updated_at": "2026-04-03T20:34:51.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81273,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81274,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50954-69cfec328c520.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:58.000000Z",
+              "updated_at": "2026-04-03T20:34:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50954-69cfec328c520.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81274,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81275,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50954-69cfec3be062c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:35:07.000000Z",
+              "updated_at": "2026-04-03T20:35:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50954-69cfec3be062c.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81275,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81276,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50954-69cfec44e1cbe.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:35:16.000000Z",
+              "updated_at": "2026-04-03T20:35:16.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50954-69cfec44e1cbe.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81276,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Neşeli Madagascar(2009)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81273,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50954-69cfec2b5b09e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:51.000000Z",
+              "updated_at": "2026-04-03T20:34:51.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81273,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81274,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50954-69cfec328c520.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:58.000000Z",
+              "updated_at": "2026-04-03T20:34:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50954-69cfec328c520.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81274,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81275,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50954-69cfec3be062c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:35:07.000000Z",
+              "updated_at": "2026-04-03T20:35:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50954-69cfec3be062c.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81275,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81273,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50954-69cfec2b5b09e.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:51.000000Z",
+              "updated_at": "2026-04-03T20:34:51.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81273,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81274,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50954-69cfec328c520.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:34:58.000000Z",
+              "updated_at": "2026-04-03T20:34:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50954-69cfec328c520.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81274,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81275,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50954-69cfec3be062c.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:35:07.000000Z",
+              "updated_at": "2026-04-03T20:35:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50954-69cfec3be062c.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81275,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81276,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50954-69cfec44e1cbe.png",
+              "has_https": true,
+              "created_at": "2026-04-03T20:35:16.000000Z",
+              "updated_at": "2026-04-03T20:35:16.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50954-69cfec44e1cbe.png",
+              "pivot": {
+                "entity_id": 50954,
+                "picture_id": 81276,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50953,
+          "name": "PlayerCinema Universal-Esger",
+          "time": "2026-04-01T15:10:00.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50953-69cfdd70730f8.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50953-69cfdd69b1664.png",
+          "shortname": "playercinema-universal-esger",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 3,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 2,
+          "last_watched_at": 1775076486,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50953/010420261813_353584/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercinema-universal-esger",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50953-69cfdd82593be.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81257,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50953-69cfdd6264db5.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:46.000000Z",
+              "updated_at": "2026-04-03T19:31:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81257,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81258,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50953-69cfdd69b1664.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:53.000000Z",
+              "updated_at": "2026-04-03T19:31:53.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50953-69cfdd69b1664.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81258,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81259,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50953-69cfdd70730f8.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:32:00.000000Z",
+              "updated_at": "2026-04-03T19:32:00.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50953-69cfdd70730f8.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81259,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81260,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50953-69cfdd82593be.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:32:18.000000Z",
+              "updated_at": "2026-04-03T19:32:18.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50953-69cfdd82593be.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81260,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Soldıer(1998)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81257,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50953-69cfdd6264db5.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:46.000000Z",
+              "updated_at": "2026-04-03T19:31:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81257,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81258,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50953-69cfdd69b1664.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:53.000000Z",
+              "updated_at": "2026-04-03T19:31:53.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50953-69cfdd69b1664.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81258,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81259,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50953-69cfdd70730f8.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:32:00.000000Z",
+              "updated_at": "2026-04-03T19:32:00.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50953-69cfdd70730f8.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81259,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81257,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50953-69cfdd6264db5.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:46.000000Z",
+              "updated_at": "2026-04-03T19:31:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81257,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81258,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50953-69cfdd69b1664.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:31:53.000000Z",
+              "updated_at": "2026-04-03T19:31:53.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50953-69cfdd69b1664.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81258,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81259,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50953-69cfdd70730f8.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:32:00.000000Z",
+              "updated_at": "2026-04-03T19:32:00.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50953-69cfdd70730f8.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81259,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81260,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50953-69cfdd82593be.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:32:18.000000Z",
+              "updated_at": "2026-04-03T19:32:18.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50953-69cfdd82593be.png",
+              "pivot": {
+                "entity_id": 50953,
+                "picture_id": 81260,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50951,
+          "name": "Ztutotv",
+          "time": "2026-04-01T13:12:23.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "ztutotv-",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27572,
+            "username": "Ztutotv",
+            "ava": ""
+          },
+          "stream_name": "ztutotv-",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27572",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50950,
+          "name": "by-kerimoff-gaydasiz doyusler",
+          "time": "2026-03-31T23:27:01.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-gaydasiz-doyusler",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 2,
+          "last_watched_at": 1775280075,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50950/010420260237_353546/preview.jpg",
+          "owner": {
+            "id": 27571,
+            "username": "bykerimoff54",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-gaydasiz-doyusler",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27571",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "FULL MATCH- Reigns vs. Bálor — Universal Title Extreme Rules Match- WWE Extreme Rules 2021",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50949,
+          "name": "F SİNEMA",
+          "time": "2026-03-31T22:38:15.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50949-69cc4ce847ff5.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50949-69cc4ce4c3afe.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50949-69cc4ce68a2f4.png",
+          "shortname": "f-snema",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 1775251490,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1774997087,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27384,
+            "username": "ftvv",
+            "ava": ""
+          },
+          "stream_name": "f-snema",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50949-69cc4ceaddd31.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27384",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81163,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50949-69cc4ce4c3afe.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:28.000000Z",
+              "updated_at": "2026-04-01T01:38:28.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50949-69cc4ce4c3afe.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81163,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81164,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50949-69cc4ce68a2f4.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:30.000000Z",
+              "updated_at": "2026-04-01T01:38:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50949-69cc4ce68a2f4.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81164,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81165,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50949-69cc4ce847ff5.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:32.000000Z",
+              "updated_at": "2026-04-01T01:38:32.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50949-69cc4ce847ff5.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81165,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81166,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50949-69cc4ceaddd31.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:34.000000Z",
+              "updated_at": "2026-04-01T01:38:34.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50949-69cc4ceaddd31.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81166,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81163,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50949-69cc4ce4c3afe.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:28.000000Z",
+              "updated_at": "2026-04-01T01:38:28.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50949-69cc4ce4c3afe.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81163,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81164,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50949-69cc4ce68a2f4.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:30.000000Z",
+              "updated_at": "2026-04-01T01:38:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50949-69cc4ce68a2f4.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81164,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81165,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50949-69cc4ce847ff5.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:32.000000Z",
+              "updated_at": "2026-04-01T01:38:32.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50949-69cc4ce847ff5.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81165,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81163,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50949-69cc4ce4c3afe.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:28.000000Z",
+              "updated_at": "2026-04-01T01:38:28.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50949-69cc4ce4c3afe.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81163,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81164,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50949-69cc4ce68a2f4.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:30.000000Z",
+              "updated_at": "2026-04-01T01:38:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50949-69cc4ce68a2f4.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81164,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81165,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50949-69cc4ce847ff5.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:32.000000Z",
+              "updated_at": "2026-04-01T01:38:32.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50949-69cc4ce847ff5.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81165,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81166,
+              "user_id": 27384,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50949-69cc4ceaddd31.png",
+              "has_https": true,
+              "created_at": "2026-04-01T01:38:34.000000Z",
+              "updated_at": "2026-04-01T01:38:34.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50949-69cc4ceaddd31.png",
+              "pivot": {
+                "entity_id": 50949,
+                "picture_id": 81166,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50948,
+          "name": "PlayerCınema YIRTICI 2",
+          "time": "2026-03-31T20:33:30.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50948-69cfe05ed11e2.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50948-69cfe05870ba2.png",
+          "shortname": "playercnema-yirtici2",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 2,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775090099,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50948/310320262341_353531/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercnema-yirtici2",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50948-69cfe0669fcaa.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81267,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50948-69cfe05117edd.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:17.000000Z",
+              "updated_at": "2026-04-03T19:44:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81267,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81268,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50948-69cfe05870ba2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:24.000000Z",
+              "updated_at": "2026-04-03T19:44:24.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50948-69cfe05870ba2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81268,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81269,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50948-69cfe05ed11e2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:31.000000Z",
+              "updated_at": "2026-04-03T19:44:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50948-69cfe05ed11e2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81269,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81270,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50948-69cfe0669fcaa.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:38.000000Z",
+              "updated_at": "2026-04-03T19:44:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50948-69cfe0669fcaa.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81270,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Predators(2010)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81267,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50948-69cfe05117edd.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:17.000000Z",
+              "updated_at": "2026-04-03T19:44:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81267,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81268,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50948-69cfe05870ba2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:24.000000Z",
+              "updated_at": "2026-04-03T19:44:24.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50948-69cfe05870ba2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81268,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81269,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50948-69cfe05ed11e2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:31.000000Z",
+              "updated_at": "2026-04-03T19:44:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50948-69cfe05ed11e2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81269,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81267,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50948-69cfe05117edd.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:17.000000Z",
+              "updated_at": "2026-04-03T19:44:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81267,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81268,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50948-69cfe05870ba2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:24.000000Z",
+              "updated_at": "2026-04-03T19:44:24.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50948-69cfe05870ba2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81268,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81269,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50948-69cfe05ed11e2.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:31.000000Z",
+              "updated_at": "2026-04-03T19:44:31.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50948-69cfe05ed11e2.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81269,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81270,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50948-69cfe0669fcaa.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:44:38.000000Z",
+              "updated_at": "2026-04-03T19:44:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50948-69cfe0669fcaa.png",
+              "pivot": {
+                "entity_id": 50948,
+                "picture_id": 81270,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50947,
+          "name": "PlayerCınema YIRTICI",
+          "time": "2026-03-31T20:17:02.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50947-69cfdc6156abf.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50947-69cfdc5b815a4.png",
+          "shortname": "playercnema-yirtici",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 2,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775090121,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50947/310320262332_353528/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercnema-yirtici",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50947-69cfdc69ac034.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81247,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50947-69cfdc5610cd1.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:18.000000Z",
+              "updated_at": "2026-04-03T19:27:18.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81247,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81248,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50947-69cfdc5b815a4.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:23.000000Z",
+              "updated_at": "2026-04-03T19:27:23.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50947-69cfdc5b815a4.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81248,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81249,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50947-69cfdc6156abf.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:29.000000Z",
+              "updated_at": "2026-04-03T19:27:29.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50947-69cfdc6156abf.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81249,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81250,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50947-69cfdc69ac034.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:37.000000Z",
+              "updated_at": "2026-04-03T19:27:37.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50947-69cfdc69ac034.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81250,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Predator m1",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81247,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50947-69cfdc5610cd1.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:18.000000Z",
+              "updated_at": "2026-04-03T19:27:18.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81247,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81248,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50947-69cfdc5b815a4.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:23.000000Z",
+              "updated_at": "2026-04-03T19:27:23.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50947-69cfdc5b815a4.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81248,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81249,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50947-69cfdc6156abf.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:29.000000Z",
+              "updated_at": "2026-04-03T19:27:29.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50947-69cfdc6156abf.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81249,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81247,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50947-69cfdc5610cd1.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:18.000000Z",
+              "updated_at": "2026-04-03T19:27:18.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81247,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81248,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50947-69cfdc5b815a4.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:23.000000Z",
+              "updated_at": "2026-04-03T19:27:23.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50947-69cfdc5b815a4.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81248,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81249,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50947-69cfdc6156abf.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:29.000000Z",
+              "updated_at": "2026-04-03T19:27:29.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50947-69cfdc6156abf.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81249,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81250,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50947-69cfdc69ac034.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:27:37.000000Z",
+              "updated_at": "2026-04-03T19:27:37.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50947-69cfdc69ac034.png",
+              "pivot": {
+                "entity_id": 50947,
+                "picture_id": 81250,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50946,
+          "name": "PlayerCınema ACTION 6",
+          "time": "2026-03-31T19:54:15.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50946-69cfdea398c48.png",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png",
+          "banner": "https://img.catcast.tv/uploads/03042026/banners/50946-69cfde5e9e500.png",
+          "shortname": "playercnema-action6",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 2,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775108150,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50946/310320262310_353515/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercnema-action6",
+          "player_background": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50946-69cfdece7caae.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81262,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50946-69cfde586be32.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:52.000000Z",
+              "updated_at": "2026-04-03T19:35:52.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81262,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81263,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50946-69cfde5e9e500.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:58.000000Z",
+              "updated_at": "2026-04-03T19:35:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50946-69cfde5e9e500.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81263,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81264,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50946-69cfdea398c48.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:37:07.000000Z",
+              "updated_at": "2026-04-03T19:37:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50946-69cfdea398c48.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81264,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81265,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50946-69cfdece7caae.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:37:50.000000Z",
+              "updated_at": "2026-04-03T19:37:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50946-69cfdece7caae.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81265,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "War Machine(2026)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81262,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50946-69cfde586be32.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:52.000000Z",
+              "updated_at": "2026-04-03T19:35:52.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81262,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81263,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50946-69cfde5e9e500.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:58.000000Z",
+              "updated_at": "2026-04-03T19:35:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50946-69cfde5e9e500.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81263,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81264,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50946-69cfdea398c48.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:37:07.000000Z",
+              "updated_at": "2026-04-03T19:37:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50946-69cfdea398c48.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81264,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81262,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50946-69cfde586be32.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:52.000000Z",
+              "updated_at": "2026-04-03T19:35:52.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81262,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81263,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/banners",
+              "filename": "50946-69cfde5e9e500.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:35:58.000000Z",
+              "updated_at": "2026-04-03T19:35:58.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/banners/50946-69cfde5e9e500.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81263,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81264,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50946-69cfdea398c48.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:37:07.000000Z",
+              "updated_at": "2026-04-03T19:37:07.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50946-69cfdea398c48.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81264,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81265,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/player_backgrounds",
+              "filename": "50946-69cfdece7caae.png",
+              "has_https": true,
+              "created_at": "2026-04-03T19:37:50.000000Z",
+              "updated_at": "2026-04-03T19:37:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/player_backgrounds/50946-69cfdece7caae.png",
+              "pivot": {
+                "entity_id": 50946,
+                "picture_id": 81265,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50945,
+          "name": "PlayerCınema MARVEL 6",
+          "time": "2026-03-31T19:39:24.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50945-69cd5fa6c58b2.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50945-69cd5f9e7b2ba.png",
+          "shortname": "playercnema-marvel6",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 2,
+          "last_watched_at": 1775108153,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50945/310320262244_353504/preview.jpg",
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercnema-marvel6",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50945-69cd5fafb6586.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81208,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50945-69cd5f9675cef.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:30.000000Z",
+              "updated_at": "2026-04-01T22:10:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81208,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81209,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50945-69cd5f9e7b2ba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:38.000000Z",
+              "updated_at": "2026-04-01T22:10:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50945-69cd5f9e7b2ba.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81209,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81210,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50945-69cd5fa6c58b2.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:46.000000Z",
+              "updated_at": "2026-04-01T22:10:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50945-69cd5fa6c58b2.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81210,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81211,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50945-69cd5fafb6586.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:55.000000Z",
+              "updated_at": "2026-04-01T22:10:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50945-69cd5fafb6586.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81211,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "Venom-Son Dans(2024)",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81208,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50945-69cd5f9675cef.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:30.000000Z",
+              "updated_at": "2026-04-01T22:10:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81208,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81209,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50945-69cd5f9e7b2ba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:38.000000Z",
+              "updated_at": "2026-04-01T22:10:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50945-69cd5f9e7b2ba.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81209,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81210,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50945-69cd5fa6c58b2.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:46.000000Z",
+              "updated_at": "2026-04-01T22:10:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50945-69cd5fa6c58b2.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81210,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81208,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50945-69cd5f9675cef.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:30.000000Z",
+              "updated_at": "2026-04-01T22:10:30.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81208,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81209,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50945-69cd5f9e7b2ba.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:38.000000Z",
+              "updated_at": "2026-04-01T22:10:38.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50945-69cd5f9e7b2ba.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81209,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81210,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50945-69cd5fa6c58b2.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:46.000000Z",
+              "updated_at": "2026-04-01T22:10:46.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50945-69cd5fa6c58b2.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81210,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81211,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50945-69cd5fafb6586.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:10:55.000000Z",
+              "updated_at": "2026-04-01T22:10:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50945-69cd5fafb6586.png",
+              "pivot": {
+                "entity_id": 50945,
+                "picture_id": 81211,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        }
+      ],
+      "first_page_url": "https://api.catcast.tv/api/channels?page=1",
+      "from": 1,
+      "last_page": 509,
+      "last_page_url": "https://api.catcast.tv/api/channels?page=509",
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Previous",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=508",
+          "label": "508",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=509",
+          "label": "509",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=2",
+          "label": "Next &raquo;",
+          "active": false
+        }
+      ],
+      "next_page_url": "https://api.catcast.tv/api/channels?page=2",
+      "path": "https://api.catcast.tv/api/channels",
+      "per_page": 24,
+      "prev_page_url": null,
+      "to": 24,
+      "total": 12201
+    }
+  }
+}
