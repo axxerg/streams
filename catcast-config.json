@@ -1,5 +1,93 @@
 [
     {
+        "id": "50969",
+        "slug": "kanal65-hmusiqi"
+    },
+    {
+        "id": "50967",
+        "slug": "hind-klipler"
+    },
+    {
+        "id": "50966",
+        "slug": "by-kerimoff-hind-klipleri"
+    },
+    {
+        "id": "50965",
+        "slug": "next-channel"
+    },
+    {
+        "id": "50963",
+        "slug": "hma-media-tv"
+    },
+    {
+        "id": "50962",
+        "slug": "by-kerimoff-hind-klipleri"
+    },
+    {
+        "id": "50961",
+        "slug": "playercinema-premium-5"
+    },
+    {
+        "id": "50960",
+        "slug": "playercinema-premium-4"
+    },
+    {
+        "id": "50959",
+        "slug": "playercizgifilm-panda-2"
+    },
+    {
+        "id": "50958",
+        "slug": "playercizgifilm-panda-1"
+    },
+    {
+        "id": "50957",
+        "slug": "playercizgifilm-srek-ejdaha"
+    },
+    {
+        "id": "50956",
+        "slug": "ttv"
+    },
+    {
+        "id": "50955",
+        "slug": "playercinema-premium-3"
+    },
+    {
+        "id": "50954",
+        "slug": "playercizgifilm-madagascar"
+    },
+    {
+        "id": "50953",
+        "slug": "playercinema-universal-esger"
+    },
+    {
+        "id": "50951",
+        "slug": "ztutotv"
+    },
+    {
+        "id": "50950",
+        "slug": "by-kerimoff-gaydasiz-doyusler"
+    },
+    {
+        "id": "50949",
+        "slug": "f-sinema"
+    },
+    {
+        "id": "50948",
+        "slug": "playercnema-yirtici-2"
+    },
+    {
+        "id": "50947",
+        "slug": "playercnema-yirtici"
+    },
+    {
+        "id": "50946",
+        "slug": "playercnema-action-6"
+    },
+    {
+        "id": "50945",
+        "slug": "playercnema-marvel-6"
+    },
+    {
         "id": "38617",
         "slug": "1-international"
     },
@@ -48,18 +136,6 @@
         "slug": "bayzan-music"
     },
     {
-        "id": "50950",
-        "slug": "by-kerimoff-gaydasiz-doyusler"
-    },
-    {
-        "id": "50966",
-        "slug": "by-kerimoff-hind-klipleri"
-    },
-    {
-        "id": "50962",
-        "slug": "by-kerimoff-hind-klipleri"
-    },
-    {
         "id": "41170",
         "slug": "cinemaster-2"
     },
@@ -70,10 +146,6 @@
     {
         "id": "42148",
         "slug": "dancehits80"
-    },
-    {
-        "id": "50949",
-        "slug": "f-sinema"
     },
     {
         "id": "34843",
@@ -90,14 +162,6 @@
     {
         "id": "39533",
         "slug": "hd"
-    },
-    {
-        "id": "50967",
-        "slug": "hind-klipler"
-    },
-    {
-        "id": "50963",
-        "slug": "hma-media-tv"
     },
     {
         "id": "38720",
@@ -124,10 +188,6 @@
         "slug": "kanal-f"
     },
     {
-        "id": "50969",
-        "slug": "kanal65-hmusiqi"
-    },
-    {
         "id": "50812",
         "slug": "knl-t"
     },
@@ -138,10 +198,6 @@
     {
         "id": "41540",
         "slug": "mozigohu"
-    },
-    {
-        "id": "50965",
-        "slug": "next-channel"
     },
     {
         "id": "50813",
@@ -160,56 +216,8 @@
         "slug": "playercinema-aze-dublaj-3"
     },
     {
-        "id": "50955",
-        "slug": "playercinema-premium-3"
-    },
-    {
-        "id": "50960",
-        "slug": "playercinema-premium-4"
-    },
-    {
-        "id": "50961",
-        "slug": "playercinema-premium-5"
-    },
-    {
-        "id": "50953",
-        "slug": "playercinema-universal-esger"
-    },
-    {
-        "id": "50954",
-        "slug": "playercizgifilm-madagascar"
-    },
-    {
-        "id": "50958",
-        "slug": "playercizgifilm-panda-1"
-    },
-    {
-        "id": "50959",
-        "slug": "playercizgifilm-panda-2"
-    },
-    {
-        "id": "50957",
-        "slug": "playercizgifilm-srek-ejdaha"
-    },
-    {
-        "id": "50946",
-        "slug": "playercnema-action-6"
-    },
-    {
         "id": "50944",
         "slug": "playercnema-marvel-5"
-    },
-    {
-        "id": "50945",
-        "slug": "playercnema-marvel-6"
-    },
-    {
-        "id": "50947",
-        "slug": "playercnema-yirtici"
-    },
-    {
-        "id": "50948",
-        "slug": "playercnema-yirtici-2"
     },
     {
         "id": "35318",
@@ -238,10 +246,6 @@
     {
         "id": "43075",
         "slug": "tom-and-jerry-24-7"
-    },
-    {
-        "id": "50956",
-        "slug": "ttv"
     },
     {
         "id": "50541",
@@ -286,9 +290,5 @@
     {
         "id": "50498",
         "slug": "yansimasinematvs"
-    },
-    {
-        "id": "50951",
-        "slug": "ztutotv"
     }
 ]
