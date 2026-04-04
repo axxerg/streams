@@ -436,7 +436,7 @@
                     "premium": 0,
                     "autopilot": 0,
                     "showautopilot": 1,
-                    "dayviews": 13,
+                    "dayviews": 17,
                     "tags": [],
                     "wasonline": 1775252652,
                     "colors": [
@@ -2508,7 +2508,7 @@
                     "last_listen_time": null,
                     "is_temp_stopped": null,
                     "temp_stopped_at": null,
-                    "viewers_count": 0,
+                    "viewers_count": 1,
                     "last_watched_at": 1775224738,
                     "last_changed_at": null,
                     "is_online": true,
@@ -2527,7 +2527,7 @@
                         "ip": "45.139.185.35"
                     },
                     "online_screenshot": "https://s.catcast.tv/scrttvturkiye.png",
-                    "viewers": 0,
+                    "viewers": 1,
                     "is_nms": false,
                     "owner": {
                         "id": 27574,
@@ -3026,7 +3026,7 @@
                     "last_changed_at": null,
                     "is_online": true,
                     "is_autopilot": true,
-                    "online_screenshot": "https://v2.catcast.tv/videos/ch50954/010420261820_353590/preview.jpg",
+                    "online_screenshot": "https://v2.catcast.tv/videos/ch50954/010420261820_353589/preview.jpg",
                     "owner": {
                         "id": 27208,
                         "username": "DedMaster",
@@ -3119,7 +3119,7 @@
                             }
                         }
                     },
-                    "program_name": "Madly Madagascar(2013)",
+                    "program_name": "Madagascar Penguenleri(2014)",
                     "is_radio": false,
                     "additional_settings": {
                         "donates": {
@@ -3710,7 +3710,7 @@
                     "last_changed_at": null,
                     "is_online": true,
                     "is_autopilot": true,
-                    "online_screenshot": "https://v2.catcast.tv/videos/ch50950/010420260237_353545/preview.jpg",
+                    "online_screenshot": "https://v2.catcast.tv/videos/ch50950/010420260237_353544/preview.jpg",
                     "owner": {
                         "id": 27571,
                         "username": "bykerimoff54",
@@ -3747,7 +3747,7 @@
                             "full_path": null
                         }
                     },
-                    "program_name": "FULL MATCH- Nina Samuels vs Tate Mayfairs - HUSTLE 05-03-24",
+                    "program_name": "FULL MATCH- Liv Morgan vs. Rhea Ripley - Women’s World Title Match- SummerSlam 2024",
                     "is_radio": false,
                     "additional_settings": {
                         "donates": {
