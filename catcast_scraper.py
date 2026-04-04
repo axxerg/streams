@@ -19,48 +19,6 @@ def slugify(text: str) -> str:
     return text
 
 
-def add_channel(found: dict, cid, name):
-    if cid is None or name is None:
-        return
-
-    cid = str(cid).strip()
-    name = str(name).strip()
-
-    if not cid or not name:
-        return
-
-    # nur numerische IDs
-    if not cid.isdigit():
-        return
-
-    # offensichtlichen Müll rausfiltern
-    if len(cid) < 5:
-        return
-
-    slug = slugify(name)
-    if not slug:
-        return
-
-    if slug == "name":
-        return
-
-    found[cid] = {
-        "id": cid,
-        "slug": slug
-    }
-
-
-def walk(obj, found: dict):
-    if isinstance(obj, dict):
-        if "id" in obj and "name" in obj:
-            add_channel(found, obj.get("id"), obj.get("name"))
-        for value in obj.values():
-            walk(value, found)
-    elif isinstance(obj, list):
-        for item in obj:
-            walk(item, found)
-
-
 def load_existing():
     path = Path(OUTPUT_FILE)
     if not path.exists():
@@ -74,40 +32,82 @@ def load_existing():
     return []
 
 
-def merge_existing(existing: list, found: dict):
-    merged = []
-    seen = set()
+def extract_channels(payload):
+    if not isinstance(payload, dict):
+        raise ValueError("API root is not an object")
 
-    for item in existing:
+    data = payload.get("data")
+    if not isinstance(data, list):
+        raise ValueError("payload['data'] is not a list")
+
+    channels = []
+    for item in data:
         if not isinstance(item, dict):
             continue
 
-        cid = str(item.get("id", "")).strip()
-        slug = str(item.get("slug", "")).strip()
+        cid = item.get("id")
+        name = item.get("name")
 
-        if not cid or not cid.isdigit():
+        if cid is None or not name:
+            continue
+
+        cid = str(cid).strip()
+        name = str(name).strip()
+
+        if not cid.isdigit():
             continue
         if len(cid) < 5:
             continue
 
-        if not slug and cid in found:
-            slug = found[cid]["slug"]
-
+        slug = slugify(name)
         if not slug:
             continue
 
+        channels.append({
+            "id": cid,
+            "slug": slug
+        })
+
+    return channels
+
+
+def merge_existing(existing, fresh):
+    existing_map = {}
+    for item in existing:
+        if not isinstance(item, dict):
+            continue
+        cid = str(item.get("id", "")).strip()
+        slug = str(item.get("slug", "")).strip()
+        if cid:
+            existing_map[cid] = slug
+
+    merged = []
+    seen = set()
+
+    for item in fresh:
+        cid = item["id"]
+        slug = item["slug"]
+
+        # vorhandenen slug behalten, falls schon gesetzt
+        if cid in existing_map and existing_map[cid]:
+            slug = existing_map[cid]
+
         if cid in seen:
             continue
+        seen.add(cid)
 
         merged.append({
             "id": cid,
             "slug": slug
         })
-        seen.add(cid)
 
-    new_items = [v for k, v in found.items() if k not in seen]
-    new_items.sort(key=lambda x: x["slug"])
-    merged.extend(new_items)
+    # alte Einträge behalten, die nicht mehr in fresh sind
+    for cid, slug in existing_map.items():
+        if cid not in seen:
+            merged.append({
+                "id": cid,
+                "slug": slug
+            })
 
     return merged
 
@@ -125,16 +125,15 @@ def main():
     payload = response.json()
 
     Path(DEBUG_FILE).write_text(
-        json.dumps(payload, ensure_ascii=False, indent=4) + "\n",
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8"
     )
     print(f"Saved raw API response to {DEBUG_FILE}", flush=True)
 
-    found = {}
-    walk(payload, found)
-    print(f"Valid channels found recursively: {len(found)}", flush=True)
+    fresh = extract_channels(payload)
+    print(f"Fresh valid channels: {len(fresh)}", flush=True)
 
-    merged = merge_existing(existing, found)
+    merged = merge_existing(existing, fresh)
 
     Path(OUTPUT_FILE).write_text(
         json.dumps(merged, ensure_ascii=False, indent=4) + "\n",
