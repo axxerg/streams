@@ -37,11 +37,8 @@ jobs:
         run: |
           echo "=== catcast-config.json ==="
           cat catcast-config.json || true
-          echo "=== catcast-debug.json ==="
-          cat catcast-debug.json || true
 
       - name: Commit and push changes
-        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -49,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Clean and update catcast config"
+            git commit -m "Update catcast config safely"
             git push
           fi
