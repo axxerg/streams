@@ -30,14 +30,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Show config (debug)
+      - name: Show config
         run: |
           echo "=== catcast-config.json ==="
           cat catcast-config.json || echo "file missing"
           echo
+          python - <<'PY'
+          import json
+          try:
+              with open("catcast-config.json", "r", encoding="utf-8") as f:
+                  data = json.load(f)
+              print("type:", type(data).__name__)
+              if isinstance(data, list):
+                  print("entries:", len(data))
+                  print("first_entries:", data[:5])
+          except Exception as e:
+              print("config debug error:", e)
+          PY
 
       - name: Run script
         run: python catcast.py
+
+      - name: Show git status
+        run: |
+          git status
+          git diff -- catcast || true
 
       - name: Commit changes
         run: |
