@@ -7,6 +7,7 @@ import requests
 
 BASE_URL = "https://api.catcast.tv/api/channels?page={page}"
 OUT_FILE = "catcast-config2.json"
+DEBUG_FILE = "catcast-page-debug.json"
 
 
 def slugify(text: str) -> str:
@@ -18,17 +19,54 @@ def slugify(text: str) -> str:
     return text
 
 
+def score_list(lst):
+    if not isinstance(lst, list) or not lst:
+        return -1
+
+    dicts = [x for x in lst if isinstance(x, dict)]
+    if not dicts:
+        return -1
+
+    score = 0
+    sample = dicts[:20]
+    for item in sample:
+        if "id" in item:
+            score += 2
+        if "name" in item:
+            score += 2
+        if "shortname" in item:
+            score += 1
+    return score
+
+
+def find_best_channel_list(obj, path="root", candidates=None):
+    if candidates is None:
+        candidates = []
+
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            p = f"{path}.{k}"
+            if isinstance(v, list):
+                s = score_list(v)
+                if s > 0:
+                    candidates.append((p, v, s))
+            find_best_channel_list(v, p, candidates)
+
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            find_best_channel_list(v, f"{path}[{i}]", candidates)
+
+    return candidates
+
+
 def extract_channel_list(payload):
-    if not isinstance(payload, dict):
-        return []
+    candidates = find_best_channel_list(payload)
+    if not candidates:
+        return None, []
 
-    data = payload.get("data")
-    if isinstance(data, dict):
-        inner = data.get("data")
-        if isinstance(inner, list):
-            return inner
-
-    return []
+    candidates.sort(key=lambda x: (x[2], len(x[1])), reverse=True)
+    best_path, best_list, _ = candidates[0]
+    return best_path, best_list
 
 
 def main():
@@ -50,11 +88,20 @@ def main():
             print(f"Error on page {page}: {e}", flush=True)
             break
 
-        channel_list = extract_channel_list(payload)
+        if page == 1:
+            Path(DEBUG_FILE).write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2),
+                encoding="utf-8"
+            )
+            print(f"Saved debug payload to {DEBUG_FILE}", flush=True)
+
+        best_path, channel_list = extract_channel_list(payload)
 
         if not channel_list:
             print(f"No more channels on page {page}", flush=True)
             break
+
+        print(f"Using list at {best_path} with {len(channel_list)} entries", flush=True)
 
         added_this_page = 0
 
