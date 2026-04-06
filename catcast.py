@@ -129,3 +129,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # Save failed channels to offline.txt
+    try:
+        with open("offline.txt", "w", encoding="utf-8") as f:
+            for slug in failed_channels:
+                f.write(f"{slug}\n")
+        print(f"\nSaved offline channels to offline.txt ({len(failed_channels)} entries)")
+    except Exception as e:
+        print(f"Error writing offline.txt: {e}")
