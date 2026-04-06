@@ -35,8 +35,8 @@ jobs:
       - name: Show generated config
         if: always()
         run: |
-          echo "=== catcast-config.json ==="
-          cat catcast-config.json || true
+          echo "=== catcast-config2.json ==="
+          cat catcast-config2.json || true
 
       - name: Commit and push changes
         if: always()
