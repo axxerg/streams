@@ -32,18 +32,21 @@ jobs:
       - name: Run build script
         run: python build_catcast_config2.py
 
-      - name: Show generated config
+      - name: Show generated files
         if: always()
         run: |
           echo "=== catcast-config2.json ==="
           cat catcast-config2.json || true
+          echo
+          echo "=== catcast-page-debug.json ==="
+          cat catcast-page-debug.json || true
 
       - name: Commit and push changes
         if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add catcast-config2.json
+          git add catcast-config2.json catcast-page-debug.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
