@@ -9,7 +9,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -29,23 +29,24 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run scraper
-        run: python catcast_scraper.py
+      - name: Run build script
+        run: python build_catcast_config.py
 
-      - name: Show output
+      - name: Show generated config
         if: always()
         run: |
           echo "=== catcast-config.json ==="
           cat catcast-config.json || true
 
       - name: Commit and push changes
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add catcast-config.json catcast-debug.json
+          git add catcast-config2.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update catcast config safely"
+            git commit -m "Update catcast config"
             git push
           fi
