@@ -30,7 +30,7 @@ jobs:
           pip install requests
 
       - name: Run build script
-        run: python build_catcast_config.py
+        run: python build_catcast_config2.py
 
       - name: Show generated config
         if: always()
