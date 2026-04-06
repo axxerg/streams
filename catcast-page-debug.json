@@ -1,0 +1,3064 @@
+{
+  "status": 1,
+  "data": {
+    "list": {
+      "current_page": 1,
+      "data": [
+        {
+          "id": 50985,
+          "name": "Nvt müzik",
+          "time": "2026-04-06T12:56:26.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "nvt-mzik",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 6,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27594,
+            "username": "dijibu12",
+            "ava": ""
+          },
+          "stream_name": "nvt-mzik",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27594",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50984,
+          "name": "Lego Ninjago",
+          "time": "2026-04-05T19:55:38.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "lego-ninjago",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27060,
+            "username": "eamtv",
+            "ava": ""
+          },
+          "stream_name": "lego-ninjago",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27060",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50983,
+          "name": "Eam Network",
+          "time": "2026-04-05T19:43:28.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "eam-network",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27060,
+            "username": "eamtv",
+            "ava": ""
+          },
+          "stream_name": "eam-network",
+          "player_background": null,
+          "background_size": null,
+          "links": [
+            {
+              "group": "Csatorna",
+              "link": "https://youtube.com/@kritikakkontroller?si=3OzrWEB5R1xcv_Vv"
+            }
+          ],
+          "description": "",
+          "description_text": "",
+          "author_id": "27060",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50982,
+          "name": "HyperSerp",
+          "time": "2026-04-05T16:28:07.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "hyperserp",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27599,
+            "username": "HyperSerp",
+            "ava": ""
+          },
+          "stream_name": "hyperserp",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27599",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50981,
+          "name": "Рус ТВ",
+          "time": "2026-04-05T16:00:24.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "рус-тв",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27598,
+            "username": "Мой Первый Музыкальный Канал",
+            "ava": ""
+          },
+          "stream_name": "рус-тв",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27598",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50980,
+          "name": "superchannel",
+          "time": "2026-04-05T13:37:16.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "superchannel",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 4,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27597,
+            "username": "nickgrabowski",
+            "ava": ""
+          },
+          "stream_name": "superchannel",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27597",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50979,
+          "name": "Fanatik Max Blade",
+          "time": "2026-04-05T12:23:22.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "fanatikmaxblade",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27378,
+            "username": "fanatikplay",
+            "ava": ""
+          },
+          "stream_name": "fanatikmaxblade",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27378",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50978,
+          "name": "Megamax HU",
+          "time": "2026-04-05T09:28:52.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "megamax-hu",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 8,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 26807,
+            "username": "yellowtv",
+            "ava": ""
+          },
+          "stream_name": "megamax-hu",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "26807",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50977,
+          "name": "ЛУЛЬТ",
+          "time": "2026-04-05T02:19:49.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "loolt",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 4,
+          "tags": [],
+          "wasonline": 1775467671,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775469114,
+          "last_changed_at": null,
+          "owner": {
+            "id": 26919,
+            "username": "CTCTC Media",
+            "ava": ""
+          },
+          "stream_name": "loolt",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "26919",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50976,
+          "name": "NVT 1",
+          "time": "2026-04-04T20:37:42.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "nvt-1",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27594,
+            "username": "dijibu12",
+            "ava": ""
+          },
+          "stream_name": "nvt-1",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27594",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50975,
+          "name": "tavasziszel",
+          "time": "2026-04-04T17:43:46.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "tavasziszel",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 6,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 18845,
+            "username": "Rolcsial",
+            "ava": ""
+          },
+          "stream_name": "tavasziszel",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "18845",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50974,
+          "name": "Sessiz Ünlü TV",
+          "time": "2026-04-04T17:21:52.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "sessizunlu",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27591,
+            "username": "sessizunlu",
+            "ava": ""
+          },
+          "stream_name": "sessizunlu",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27591",
+          "allow_comments": false,
+          "show_offline": false,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50973,
+          "name": "LiveNet",
+          "time": "2026-04-04T17:09:56.000000Z",
+          "background": null,
+          "logo": "https://img.catcast.tv/uploads/04042026/logos/50973-69d172f9cda3c.jpg",
+          "banner": null,
+          "shortname": "livenet_official",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [
+            "livenet",
+            "телеканал",
+            "итв",
+            "интернет",
+            "мультфильмы",
+            "фильмы",
+            "сериалы"
+          ],
+          "wasonline": 1775411049,
+          "colors": [
+            "#FFFFFF",
+            "#F8F5F5",
+            "#000000",
+            "#FFFFFF",
+            "#060606",
+            "#FCB1B1",
+            "#181818",
+            "#070707",
+            "#0E0E0E",
+            "#000000",
+            "#232323",
+            "#DF8C8C",
+            "#FCB1B1"
+          ],
+          "allviews": 0,
+          "donates": true,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775411021,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27592,
+            "username": "LiveNet",
+            "ava": ""
+          },
+          "stream_name": "livenet_official",
+          "player_background": "https://img.catcast.tv/uploads/04042026/player_backgrounds/50973-69d172d6ec86e.jpg",
+          "background_size": null,
+          "links": [
+            {
+              "group": "Наш сайт (IPTV)",
+              "link": "https://livenet.netlify.app/"
+            },
+            {
+              "group": "Наш телеграмм канал",
+              "link": "https://t.me/livenet_official"
+            },
+            {
+              "group": "Наш twitch",
+              "link": "https://www.twitch.tv/livenet_"
+            },
+            {
+              "group": "Наш youtube",
+              "link": "https://www.youtube.com/@livenetoff"
+            }
+          ],
+          "description": "<p>LiveNet - Выдуманный интернет телеканал</p><p>Наши эфиры только на (твич,сайт,телеграмм,catcast,наш сайт)</p>",
+          "description_text": "LiveNet - Выдуманный интернет телеканалНаши эфиры только на (твич,сайт,телеграмм,catcast,наш сайт)",
+          "author_id": "27592",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81319,
+              "user_id": 27592,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/04042026/logos",
+              "filename": "50973-69d172f9cda3c.jpg",
+              "has_https": true,
+              "created_at": "2026-04-04T23:22:17.000000Z",
+              "updated_at": "2026-04-04T23:22:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/04042026/logos/50973-69d172f9cda3c.jpg",
+              "pivot": {
+                "entity_id": 50973,
+                "picture_id": 81319,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": 81318,
+              "user_id": 27592,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/04042026/player_backgrounds",
+              "filename": "50973-69d172d6ec86e.jpg",
+              "has_https": true,
+              "created_at": "2026-04-04T23:21:42.000000Z",
+              "updated_at": "2026-04-04T23:21:42.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/04042026/player_backgrounds/50973-69d172d6ec86e.jpg",
+              "pivot": {
+                "entity_id": 50973,
+                "picture_id": 81318,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "LiveNet - Новый интернет телеканал.",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "Улучшение телеканала.",
+              "minimal_sum": "5",
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "Поддержать телеканал.",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81318,
+              "user_id": 27592,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/04042026/player_backgrounds",
+              "filename": "50973-69d172d6ec86e.jpg",
+              "has_https": true,
+              "created_at": "2026-04-04T23:21:42.000000Z",
+              "updated_at": "2026-04-04T23:21:42.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/04042026/player_backgrounds/50973-69d172d6ec86e.jpg",
+              "pivot": {
+                "entity_id": 50973,
+                "picture_id": 81318,
+                "entity_picture_type": "player_background"
+              }
+            },
+            {
+              "id": 81319,
+              "user_id": 27592,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/04042026/logos",
+              "filename": "50973-69d172f9cda3c.jpg",
+              "has_https": true,
+              "created_at": "2026-04-04T23:22:17.000000Z",
+              "updated_at": "2026-04-04T23:22:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/04042026/logos/50973-69d172f9cda3c.jpg",
+              "pivot": {
+                "entity_id": 50973,
+                "picture_id": 81319,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81319,
+              "user_id": 27592,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/04042026/logos",
+              "filename": "50973-69d172f9cda3c.jpg",
+              "has_https": true,
+              "created_at": "2026-04-04T23:22:17.000000Z",
+              "updated_at": "2026-04-04T23:22:17.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/04042026/logos/50973-69d172f9cda3c.jpg",
+              "pivot": {
+                "entity_id": 50973,
+                "picture_id": 81319,
+                "entity_picture_type": "logo"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50971,
+          "name": "скелетоны",
+          "time": "2026-04-04T11:23:47.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "скелетоны",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 1775302522,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27589,
+            "username": "shestakovich228",
+            "ava": ""
+          },
+          "stream_name": "скелетоны",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27589",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50970,
+          "name": "by-kerimoff-hmusic",
+          "time": "2026-04-04T08:26:26.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-hmusic",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27587,
+            "username": "by-kerimoff-hmusiler",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-hmusic",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27587",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50969,
+          "name": "KANAL65-HMUSIQI",
+          "time": "2026-04-03T22:32:38.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "kanal65-hmusiqi",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27584,
+            "username": "KANAL65",
+            "ava": ""
+          },
+          "stream_name": "kanal65-hmusiqi",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27584",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50968,
+          "name": "ПраймТВ",
+          "time": "2026-04-03T21:08:03.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "primetvru",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [
+            "разное",
+            "познавательное",
+            "мультипликационое"
+          ],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27583,
+            "username": "PrimeTV_RU",
+            "ava": ""
+          },
+          "stream_name": "primetvru",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27583",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50967,
+          "name": "hind-klipler",
+          "time": "2026-04-03T10:47:09.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "hind-klipler",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 2,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27581,
+            "username": "tv56",
+            "ava": ""
+          },
+          "stream_name": "hind-klipler",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27581",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50966,
+          "name": "by-kerimoff-hind-klipleri",
+          "time": "2026-04-02T19:46:47.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-hind-musiqisi",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 260,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775495986,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50966/040420262305_353836/preview.jpg",
+          "owner": {
+            "id": 27580,
+            "username": "bykerimoff56",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-hind-musiqisi",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27580",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "Bahar Letifqızı - Menem Men",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50965,
+          "name": "Next Channel",
+          "time": "2026-04-02T12:28:35.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "next-channeltv",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 63,
+          "tags": [],
+          "wasonline": 1775252652,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27578,
+            "username": "nextchannel",
+            "ava": ""
+          },
+          "stream_name": "next-channeltv",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27578",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50964,
+          "name": "Мульт саша",
+          "time": "2026-04-02T01:44:43.000000Z",
+          "background": null,
+          "logo": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+          "banner": null,
+          "shortname": "мульт-саша",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 4,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": 1,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27563,
+            "username": "Карусель Саша",
+            "ava": ""
+          },
+          "stream_name": "мульт-саша",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27563",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81222,
+              "user_id": 27563,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/02042026/logos",
+              "filename": "50964-69ce98aee33a9.png",
+              "has_https": true,
+              "created_at": "2026-04-02T19:26:22.000000Z",
+              "updated_at": "2026-04-02T19:26:22.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/02042026/logos/50964-69ce98aee33a9.png",
+              "pivot": {
+                "entity_id": 50964,
+                "picture_id": 81222,
+                "entity_picture_type": "logo"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50963,
+          "name": "HMA MEDIA TV",
+          "time": "2026-04-01T19:34:22.000000Z",
+          "background": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+          "logo": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+          "banner": null,
+          "shortname": "hma-mediatv",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [
+            "DİZİ",
+            "YAPAYZEKA",
+            "GELECEK"
+          ],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#0D99FF",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775213780,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27577,
+            "username": "hmamedıatv",
+            "ava": ""
+          },
+          "stream_name": "hma-mediatv",
+          "player_background": null,
+          "background_size": null,
+          "links": [
+            {
+              "group": "BEREKET HANESİ 1",
+              "link": "https://www.instagram.com/reel/DU_Uh8sDPNy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            },
+            {
+              "group": "BEREKET HANESİ 2",
+              "link": "https://www.instagram.com/reel/DVRPWK8jEjX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            }
+          ],
+          "description": "",
+          "description_text": "",
+          "author_id": "27577",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": true
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81228,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/logos",
+              "filename": "50963-69cf969ecce13.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:29:50.000000Z",
+              "updated_at": "2026-04-03T13:29:50.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/logos/50963-69cf969ecce13.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81228,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81229,
+              "user_id": 27577,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/03042026/backgrounds",
+              "filename": "50963-69cf97356224d.jpg",
+              "has_https": true,
+              "created_at": "2026-04-03T13:32:21.000000Z",
+              "updated_at": "2026-04-03T13:32:21.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/03042026/backgrounds/50963-69cf97356224d.jpg",
+              "pivot": {
+                "entity_id": 50963,
+                "picture_id": 81229,
+                "entity_picture_type": "background"
+              }
+            }
+          ]
+        },
+        {
+          "id": 50962,
+          "name": "by-kerimoff-hind-klipleri",
+          "time": "2026-04-01T19:16:03.000000Z",
+          "background": null,
+          "logo": "https://catcast.tv/assets/no-logo.svg",
+          "banner": null,
+          "shortname": "by-kerimoff-hind-klipleri",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 23,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": 1,
+          "last_watched_at": 1775495987,
+          "last_changed_at": null,
+          "is_online": true,
+          "is_autopilot": true,
+          "online_screenshot": "https://v2.catcast.tv/videos/ch50962/010420262222_353638/preview.jpg",
+          "owner": {
+            "id": 27576,
+            "username": "bykerimoff55",
+            "ava": ""
+          },
+          "stream_name": "by-kerimoff-hind-klipleri",
+          "player_background": null,
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27576",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": -1,
+              "full_path": null
+            },
+            "banner": {
+              "id": -1,
+              "full_path": null
+            },
+            "background": {
+              "id": -1,
+              "full_path": null
+            },
+            "player_background": {
+              "id": -1,
+              "full_path": null
+            }
+          },
+          "program_name": "Sharara Full Song - Mere Yaar Ki Shaadi Hai - Shamita Shetty, Asha Bhosle, Jeet-Pritam, Javed Akhtar",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": []
+        },
+        {
+          "id": 50961,
+          "name": "PlayerCinema PREMIUM 5",
+          "time": "2026-04-01T17:59:46.000000Z",
+          "background": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+          "logo": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+          "banner": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+          "shortname": "playercinema-premium5",
+          "password": null,
+          "premium": 0,
+          "autopilot": 0,
+          "showautopilot": 1,
+          "dayviews": 0,
+          "tags": [],
+          "wasonline": 0,
+          "colors": [
+            "#ffffff",
+            "#FFFFFF",
+            "#0d141a",
+            "#fff",
+            "#0d2638",
+            "#fff",
+            "#107FD0",
+            "#111",
+            "#1a1a1a",
+            "#fff",
+            "#107FD0",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "allviews": 0,
+          "donates": false,
+          "payment": 0,
+          "has_adult_content": 0,
+          "banner_link": "",
+          "channel_type": "tv",
+          "updated_at": "-000001-11-30T00:00:00.000000Z",
+          "likes_count": null,
+          "deleted_at": null,
+          "radio_port": null,
+          "program_artist": null,
+          "last_listen_time": null,
+          "is_temp_stopped": null,
+          "temp_stopped_at": null,
+          "viewers_count": null,
+          "last_watched_at": null,
+          "last_changed_at": null,
+          "owner": {
+            "id": 27208,
+            "username": "DedMaster",
+            "ava": ""
+          },
+          "stream_name": "playercinema-premium5",
+          "player_background": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+          "background_size": null,
+          "links": null,
+          "description": "",
+          "description_text": "",
+          "author_id": "27208",
+          "allow_comments": true,
+          "show_offline": true,
+          "show_timetable": true,
+          "chat_motd": "",
+          "allow_guests": false,
+          "chat_is_off": false,
+          "pictures_data": {
+            "logo": {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            "banner": {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            "background": {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            "player_background": {
+              "id": 81195,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50961-69cd5d57c0f9e.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:55.000000Z",
+              "updated_at": "2026-04-01T22:00:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81195,
+                "entity_picture_type": "player_background"
+              }
+            }
+          },
+          "program_name": "",
+          "is_radio": false,
+          "additional_settings": {
+            "donates": {
+              "donate_comment": "",
+              "minimal_sum": 10,
+              "minimal_visible_sum": 50,
+              "show_in_player": true,
+              "show_last_donates": true,
+              "button_text": "",
+              "accept_from_guests": true
+            },
+            "records": {
+              "records_visible": true,
+              "record_all": false
+            }
+          },
+          "is_banned": false,
+          "ban_reason": null,
+          "pictures": [
+            {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81192,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/logos",
+              "filename": "50961-69cd5d2c2ba69.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:12.000000Z",
+              "updated_at": "2026-04-01T22:00:12.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81192,
+                "entity_picture_type": "logo"
+              }
+            },
+            {
+              "id": 81193,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/banners",
+              "filename": "50961-69cd5d42d8771.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:35.000000Z",
+              "updated_at": "2026-04-01T22:00:35.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/banners/50961-69cd5d42d8771.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81193,
+                "entity_picture_type": "banner"
+              }
+            },
+            {
+              "id": 81194,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/backgrounds",
+              "filename": "50961-69cd5d4d90dc7.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:45.000000Z",
+              "updated_at": "2026-04-01T22:00:45.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/backgrounds/50961-69cd5d4d90dc7.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81194,
+                "entity_picture_type": "background"
+              }
+            },
+            {
+              "id": 81195,
+              "user_id": 27208,
+              "domain": "img.catcast.tv",
+              "folder": "uploads/01042026/player_backgrounds",
+              "filename": "50961-69cd5d57c0f9e.png",
+              "has_https": true,
+              "created_at": "2026-04-01T22:00:55.000000Z",
+              "updated_at": "2026-04-01T22:00:55.000000Z",
+              "deleted_at": null,
+              "channel_id": null,
+              "full_path": "https://img.catcast.tv/uploads/01042026/player_backgrounds/50961-69cd5d57c0f9e.png",
+              "pivot": {
+                "entity_id": 50961,
+                "picture_id": 81195,
+                "entity_picture_type": "player_background"
+              }
+            }
+          ]
+        }
+      ],
+      "first_page_url": "https://api.catcast.tv/api/channels?page=1",
+      "from": 1,
+      "last_page": 509,
+      "last_page_url": "https://api.catcast.tv/api/channels?page=509",
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Previous",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=508",
+          "label": "508",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=509",
+          "label": "509",
+          "active": false
+        },
+        {
+          "url": "https://api.catcast.tv/api/channels?page=2",
+          "label": "Next &raquo;",
+          "active": false
+        }
+      ],
+      "next_page_url": "https://api.catcast.tv/api/channels?page=2",
+      "path": "https://api.catcast.tv/api/channels",
+      "per_page": 24,
+      "prev_page_url": null,
+      "to": 24,
+      "total": 12215
+    }
+  }
+}
