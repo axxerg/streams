@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50008&token=06dea61dc3f9cd03bf189a4b39ab60cd&server=v2.catcast.tv
