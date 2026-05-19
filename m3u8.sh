@@ -1,35 +1,25 @@
 #!/bin/bash
 
-RAW_URL="https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/stream/nowtv.m3u8"
+PAGE="https://www.nowtv.com.tr/canli-yayin"
 
-echo ">>> Lade RAW Datei..."
+echo ">>> Lade NOWTV Seite..."
 
-curl -s "$RAW_URL"
-
-echo ""
-echo ">>> Extrahiere Stream..."
-
-MASTER=$(curl -s "$RAW_URL" | grep "^http")
-
-echo "MASTER=$MASTER"
-
-if [ -z "$MASTER" ]; then
-    echo "FEHLER: Kein Stream gefunden!"
-    exit 1
-fi
+FINAL=$(curl -s "$PAGE" | grep -o "https://nowtv-live-ad\.ercdn\.net[^']*playlist\.m3u8[^']*" | head -n 1)
 
 echo ""
-echo ">>> Speichere final.m3u8"
-
-curl -L \
--H "User-Agent: Mozilla/5.0" \
--H "Referer: https://www.nowtv.com.tr/" \
-"$MASTER" -o final.m3u8
+echo "FINAL STREAM:"
+echo "$FINAL"
 
 echo ""
-echo ">>> Prüfe Datei..."
+echo ">>> Speichere nowtv.m3u8"
 
-ls -lah final.m3u8
+cat <<EOF > nowtv.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720
+$FINAL
+EOF
 
 echo ""
-cat final.m3u8
+echo ">>> Fertig:"
+echo "nowtv.m3u8"
