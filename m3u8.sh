@@ -2,24 +2,35 @@
 
 PAGE="https://www.nowtv.com.tr/canli-yayin"
 
-echo ">>> Lade NOWTV Seite..."
+echo ">>> Lade Webseite..."
 
-FINAL=$(curl -s "$PAGE" | grep -o "https://nowtv-live-ad\.ercdn\.net[^']*playlist\.m3u8[^']*" | head -n 1)
+HTML=$(curl -s "$PAGE")
+
+echo ">>> Suche echten Stream..."
+
+FINAL=$(echo "$HTML" | grep -o "https://nowtv-live-ad\.ercdn\.net[^']*")
 
 echo ""
-echo "FINAL STREAM:"
+echo "STREAM:"
 echo "$FINAL"
 
-echo ""
-echo ">>> Speichere nowtv.m3u8"
-
-cat <<EOF > nowtv.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720
-$FINAL
-EOF
+# Prüfen ob leer
+if [ -z "$FINAL" ]; then
+    echo "FEHLER: Kein Stream gefunden!"
+    exit 1
+fi
 
 echo ""
-echo ">>> Fertig:"
-echo "nowtv.m3u8"
+echo ">>> Speichere Datei..."
+
+echo "#EXTM3U" > nowtv.m3u8
+echo "#EXT-X-VERSION:3" >> nowtv.m3u8
+echo "#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720" >> nowtv.m3u8
+echo "$FINAL" >> nowtv.m3u8
+
+echo ""
+echo ">>> Datei erstellt:"
+ls -lah nowtv.m3u8
+
+echo ""
+cat nowtv.m3u8
