@@ -6,31 +6,35 @@ echo ">>> Lade Webseite..."
 
 HTML=$(curl -s "$PAGE")
 
-echo ">>> Suche echten Stream..."
+echo ">>> Suche Stream..."
 
 FINAL=$(echo "$HTML" | grep -o "https://nowtv-live-ad\.ercdn\.net[^']*")
 
-echo ""
 echo "STREAM:"
 echo "$FINAL"
 
-# Prüfen ob leer
 if [ -z "$FINAL" ]; then
     echo "FEHLER: Kein Stream gefunden!"
     exit 1
 fi
 
-echo ""
-echo ">>> Speichere Datei..."
+mkdir -p stream
 
-echo "#EXTM3U" > nowtv.m3u8
-echo "#EXT-X-VERSION:3" >> nowtv.m3u8
-echo "#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720" >> nowtv.m3u8
-echo "$FINAL" >> nowtv.m3u8
+echo "#EXTM3U" > stream/nowtv.m3u8
+echo "#EXT-X-VERSION:3" >> stream/nowtv.m3u8
+echo "#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720" >> stream/nowtv.m3u8
+echo "$FINAL" >> stream/nowtv.m3u8
 
-echo ""
-echo ">>> Datei erstellt:"
-ls -lah nowtv.m3u8
+echo ">>> Datei erstellt"
 
-echo ""
-cat nowtv.m3u8
+cat stream/nowtv.m3u8
+
+# GIT PUSH
+git config --global user.email "action@github.com"
+git config --global user.name "GitHub Action"
+
+git add stream/nowtv.m3u8
+
+git commit -m "Update nowtv stream" || echo "Keine Änderungen"
+
+git push
