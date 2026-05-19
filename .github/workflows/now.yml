@@ -13,5 +13,5 @@ jobs:
 
     - name: Execute Script
       run: |
-        chmod +x m3u8.sh
-        ./m3u8.sh
+        chmod +x now.sh
+        ./now.sh
