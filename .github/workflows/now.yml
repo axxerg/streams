@@ -3,15 +3,23 @@ name: Run Script
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "*/30 * * * *"
+
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Execute Script
-      run: |
-        chmod +x now.sh
-        ./now.sh
+      - name: Configure Git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Execute Script
+        run: |
+          chmod +x now.sh
+          ./now.sh
