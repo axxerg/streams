@@ -2,20 +2,34 @@
 
 RAW_URL="https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/stream/nowtv.m3u8"
 
-echo ">>> GitHub Stream wird geladen..."
+echo ">>> Lade RAW Datei..."
+
+curl -s "$RAW_URL"
+
+echo ""
+echo ">>> Extrahiere Stream..."
 
 MASTER=$(curl -s "$RAW_URL" | grep "^http")
 
-echo "MASTER:"
-echo "$MASTER"
+echo "MASTER=$MASTER"
+
+if [ -z "$MASTER" ]; then
+    echo "FEHLER: Kein Stream gefunden!"
+    exit 1
+fi
 
 echo ""
-echo "FINAL PLAYLIST wird gespeichert..."
+echo ">>> Speichere final.m3u8"
 
-curl -sL \
+curl -L \
 -H "User-Agent: Mozilla/5.0" \
 -H "Referer: https://www.nowtv.com.tr/" \
-"$MASTER" > final.m3u8
+"$MASTER" -o final.m3u8
 
-echo ">>> Datei gespeichert:"
-echo "final.m3u8"
+echo ""
+echo ">>> Prüfe Datei..."
+
+ls -lah final.m3u8
+
+echo ""
+cat final.m3u8
