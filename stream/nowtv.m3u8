@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=D0ah2HpaLwjhS-eXsCoQAA&e=1786481243
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=65fa8997-2b2f-4529-85ea-84318628a608&st=E64JAhwE8shHchVE9tbfqA&e=1786481980
