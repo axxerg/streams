@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000
+https://s3.catcast.tv/content/50470/index.m3u8?token=cdb6293d940adb1c79234ee49dc6b2fc
